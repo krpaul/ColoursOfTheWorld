@@ -1,0 +1,10 @@
+flask
+werkzeug==2.0.3
+openai
+chronological
+newsapi-python
+colorama
+termcolor
+pygooglenews
+requests
+bs4

@@ -1,0 +1,96 @@
+Afghanistan: -15.504009839999998 pts
+Algeria: -7.035858139999999 pts
+Angola: -5.89036977 pts
+Argentina: -10.26516221 pts
+Australia: -11.044156880000001 pts
+Bahamas: -7.41919519 pts
+Bahrain: -2.9635851899999994 pts
+Bangladesh: -14.134097330000005 pts
+Barbados: -3.32037526 pts
+Belarus: -15.626843199999996 pts
+Belgium: -9.017429750000002 pts
+Belize: -9.31789326 pts
+Bolivia: -12.651618509999999 pts
+Bosnia and Herzegovina: -9.93174623 pts
+Brazil: -10.800311949999998 pts
+Bulgaria: -8.61624369 pts
+Cambodia: -8.96048405 pts
+Cameroon: -10.498263120000003 pts
+Canada: -11.896540720000003 pts
+China: -14.904971730000003 pts
+Colombia: -10.63529718 pts
+Costa Rica: -7.03467694 pts
+Croatia: -7.02728441 pts
+Czech Republic: -3.3478148 pts
+Democratic Republic of the Congo: -15.043847819999998 pts
+Dominican Republic: -6.70557366 pts
+Ecuador: -10.51139367 pts
+Egypt: -7.062718560000001 pts
+El Salvador: -14.0020806 pts
+Ethiopia: -13.365737359999999 pts
+France: -14.738600609999999 pts
+Ghana: -8.884484339999998 pts
+Greece: -8.76558406 pts
+Guyana: -5.490885189999999 pts
+Honduras: -10.84372217 pts
+Iceland: -6.8228078100000005 pts
+India: -11.86973916 pts
+Indonesia: -9.242359500000001 pts
+Iran: -18.306210759999995 pts
+Iraq: -7.845140539999997 pts
+Israel: -13.358138729999997 pts
+Italy: -8.1936904 pts
+Jamaica: -8.24417577 pts
+Japan: -10.325099479999997 pts
+Kazakhstan: -7.73930963 pts
+Kyrgyzstan: -10.29559021 pts
+Latvia: -10.022069100000001 pts
+Lebanon: -13.41967164 pts
+Lithuania: -7.4823532199999985 pts
+Malaysia: -9.907509299999997 pts
+Maldives: -4.44319835 pts
+Malta: -6.00870422 pts
+Mexico: -15.267471660000002 pts
+Moldova: -15.306689770000002 pts
+Morocco: -9.741211780000002 pts
+Mozambique: -6.6950538 pts
+Myanmar: -14.879325830000003 pts
+Myanmar (Burma): -14.879325830000003 pts
+Nepal: -12.31067866 pts
+Nicaragua: -13.478190960000001 pts
+Nigeria: -10.089396040000002 pts
+North Korea: -7.192852469999999 pts
+Oman: -3.75635238 pts
+Pakistan: -16.31687731 pts
+Panama: -11.097117749999995 pts
+Paraguay: -12.305458460000002 pts
+Peru: -10.176078799999999 pts
+Philippines: -10.03635991 pts
+Poland: -6.272282079999999 pts
+Portugal: -7.438425229999999 pts
+Romania: -10.689772020000001 pts
+Russia: -19.401144450000007 pts
+Saudi Arabia: -7.427515740000001 pts
+Serbia: -7.803780880000001 pts
+Slovakia: -6.69963774 pts
+South Africa: -11.567316099999996 pts
+South Korea: -11.519205109999998 pts
+Spain: -8.292753699999999 pts
+Sudan: -12.656868330000002 pts
+Suriname: -7.025782469999999 pts
+Sweden: -8.903434950000001 pts
+Switzerland: -7.686478240000001 pts
+Syria: -11.556431340000003 pts
+Taiwan: -13.715055160000002 pts
+Thailand: -9.784290609999998 pts
+Tunisia: -12.629253720000001 pts
+Turkey: -10.730026910000001 pts
+Turkmenistan: -1.4542278499999999 pts
+Ukraine: -18.078476639999998 pts
+United Kingdom: -11.800005659999998 pts
+United States: -13.056733989999998 pts
+Uruguay: -4.4587845 pts
+Uzbekistan: -5.6069489699999995 pts
+Venezuela: -12.14834888 pts
+Vietnam: -9.517844099999998 pts
+Yemen: -10.25460278 pts

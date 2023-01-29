@@ -1,0 +1,2135 @@
+{
+    'feed': {
+        'generator_detail': {
+            'name': 'NFE/5.0'
+        },
+        'generator': 'NFE/5.0',
+        'title': 'Poland - Latest - Google News',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland - Latest - Google News'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4YUhjU0FtVnVLQUFQAQ?ceid=US:en&hl=en-US&gl=US'
+        }],
+        'link': 'https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4YUhjU0FtVnVLQUFQAQ?ceid=US:en&hl=en-US&gl=US',
+        'language': 'en-US',
+        'publisher': 'news-webmaster@google.com',
+        'publisher_detail': {
+            'email': 'news-webmaster@google.com'
+        },
+        'rights': '2023 Google Inc.',
+        'rights_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': '2023 Google Inc.'
+        },
+        'updated': 'Sun, 29 Jan 2023 04:31:25 GMT',
+        'updated_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 29, tm_hour = 4, tm_min = 31, tm_sec = 25, tm_wday = 6, tm_yday = 29, tm_isdst = 0),
+        'subtitle': 'Google News',
+        'subtitle_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': 'Google News'
+        }
+    },
+    'entries': [{
+        'title': 'Tanks for Ukraine: Polish PM urges German bravery on Leopard 2 decision - BBC',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Tanks for Ukraine: Polish PM urges German bravery on Leopard 2 decision - BBC'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQzODUyMTDSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY0Mzg1MjEwLmFtcA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQzODUyMTDSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY0Mzg1MjEwLmFtcA?oc=5',
+        'id': '1744545030',
+        'guidislink': False,
+        'published': 'Tue, 24 Jan 2023 17:39:49 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 24, tm_hour = 17, tm_min = 39, tm_sec = 49, tm_wday = 1, tm_yday = 24, tm_isdst = 0),
+        'summary': '<ol><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQzODUyMTDSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY0Mzg1MjEwLmFtcA?oc=5" target="_blank">Tanks for Ukraine: Polish PM urges German bravery on Leopard 2 decision</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9enRPLXhiUnVkQkXSAQA?oc=5" target="_blank">WHEN WILL UKRAINE GET THE TANKS?</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN-News18</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8yNy93b3JsZC91a3JhaW5lLXRhbmtzLXdlc3Rlcm4tYWxsaWVzLWludGwtaG5rL2luZGV4Lmh0bWzSAVlodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzI3L3dvcmxkL3VrcmFpbmUtdGFua3Mtd2VzdGVybi1hbGxpZXMtaW50bC1obmsvaW5kZXguaHRtbA?oc=5" target="_blank">West to deliver 321 tanks to Ukraine, says diplomat, as North Korea accuses US of \'crossing the red line\'</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9uYXRpb25hbC1zZWN1cml0eS8zODMyMTU3LXRhbmtzLWZvci11a3JhaW5lLXRvby1saXR0bGUtdG9vLWxhdGUtaXMtbm90LWdvb2QtZW5vdWdoL9IBc2h0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9uYXRpb25hbC1zZWN1cml0eS8zODMyMTU3LXRhbmtzLWZvci11a3JhaW5lLXRvby1saXR0bGUtdG9vLWxhdGUtaXMtbm90LWdvb2QtZW5vdWdoL2FtcC8?oc=5" target="_blank">Tanks for Ukraine: Too little, too late is not good enough</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vbmV3cy55YWhvby5jb20vb3AtZWQtYmlkZW4ta2VlcC1zZW5kaW5nLTExMDE0NDYyNi5odG1s0gFGaHR0cHM6Ly9uZXdzLnlhaG9vLmNvbS9hbXBodG1sL29wLWVkLWJpZGVuLWtlZXAtc2VuZGluZy0xMTAxNDQ2MjYuaHRtbA?oc=5" target="_blank">Op-Ed: Can Biden keep sending Ukraine weapons without provoking Russia?</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News</font></li><li><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lHeXU2X0JoR3h1Tlp4d0xaVjdpZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong></li></ol>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<ol><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQzODUyMTDSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY0Mzg1MjEwLmFtcA?oc=5" target="_blank">Tanks for Ukraine: Polish PM urges German bravery on Leopard 2 decision</a>&nbsp;&nbsp;<font color="#6f6f6f">BBC</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9enRPLXhiUnVkQkXSAQA?oc=5" target="_blank">WHEN WILL UKRAINE GET THE TANKS?</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN-News18</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8yNy93b3JsZC91a3JhaW5lLXRhbmtzLXdlc3Rlcm4tYWxsaWVzLWludGwtaG5rL2luZGV4Lmh0bWzSAVlodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzI3L3dvcmxkL3VrcmFpbmUtdGFua3Mtd2VzdGVybi1hbGxpZXMtaW50bC1obmsvaW5kZXguaHRtbA?oc=5" target="_blank">West to deliver 321 tanks to Ukraine, says diplomat, as North Korea accuses US of \'crossing the red line\'</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9uYXRpb25hbC1zZWN1cml0eS8zODMyMTU3LXRhbmtzLWZvci11a3JhaW5lLXRvby1saXR0bGUtdG9vLWxhdGUtaXMtbm90LWdvb2QtZW5vdWdoL9IBc2h0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9uYXRpb25hbC1zZWN1cml0eS8zODMyMTU3LXRhbmtzLWZvci11a3JhaW5lLXRvby1saXR0bGUtdG9vLWxhdGUtaXMtbm90LWdvb2QtZW5vdWdoL2FtcC8?oc=5" target="_blank">Tanks for Ukraine: Too little, too late is not good enough</a>&nbsp;&nbsp;<font color="#6f6f6f">The Hill</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vbmV3cy55YWhvby5jb20vb3AtZWQtYmlkZW4ta2VlcC1zZW5kaW5nLTExMDE0NDYyNi5odG1s0gFGaHR0cHM6Ly9uZXdzLnlhaG9vLmNvbS9hbXBodG1sL29wLWVkLWJpZGVuLWtlZXAtc2VuZGluZy0xMTAxNDQ2MjYuaHRtbA?oc=5" target="_blank">Op-Ed: Can Biden keep sending Ukraine weapons without provoking Russia?</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News</font></li><li><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lHeXU2X0JoR3h1Tlp4d0xaVjdpZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong></li></ol>'
+        },
+        'source': {
+            'href': 'https://www.bbc.com',
+            'title': 'BBC'
+        },
+        'sub_articles': [{
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjQzODUyMTDSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY0Mzg1MjEwLmFtcA?oc=5',
+            'title': 'Tanks for Ukraine: Polish PM urges German bravery on Leopard 2 decision',
+            'publisher': 'BBC'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9enRPLXhiUnVkQkXSAQA?oc=5',
+            'title': 'WHEN WILL UKRAINE GET THE TANKS?',
+            'publisher': 'CNN-News18'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8yNy93b3JsZC91a3JhaW5lLXRhbmtzLXdlc3Rlcm4tYWxsaWVzLWludGwtaG5rL2luZGV4Lmh0bWzSAVlodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzI3L3dvcmxkL3VrcmFpbmUtdGFua3Mtd2VzdGVybi1hbGxpZXMtaW50bC1obmsvaW5kZXguaHRtbA?oc=5',
+            'title': "West to deliver 321 tanks to Ukraine, says diplomat, as North Korea accuses US of 'crossing the red line'",
+            'publisher': 'CNN'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9uYXRpb25hbC1zZWN1cml0eS8zODMyMTU3LXRhbmtzLWZvci11a3JhaW5lLXRvby1saXR0bGUtdG9vLWxhdGUtaXMtbm90LWdvb2QtZW5vdWdoL9IBc2h0dHBzOi8vdGhlaGlsbC5jb20vb3Bpbmlvbi9uYXRpb25hbC1zZWN1cml0eS8zODMyMTU3LXRhbmtzLWZvci11a3JhaW5lLXRvby1saXR0bGUtdG9vLWxhdGUtaXMtbm90LWdvb2QtZW5vdWdoL2FtcC8?oc=5',
+            'title': 'Tanks for Ukraine: Too little, too late is not good enough',
+            'publisher': 'The Hill'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vbmV3cy55YWhvby5jb20vb3AtZWQtYmlkZW4ta2VlcC1zZW5kaW5nLTExMDE0NDYyNi5odG1s0gFGaHR0cHM6Ly9uZXdzLnlhaG9vLmNvbS9hbXBodG1sL29wLWVkLWJpZGVuLWtlZXAtc2VuZGluZy0xMTAxNDQ2MjYuaHRtbA?oc=5',
+            'title': 'Op-Ed: Can Biden keep sending Ukraine weapons without provoking Russia?',
+            'publisher': 'Yahoo News'
+        }]
+    }, {
+        'title': 'On Holocaust Remembrance Day, Poland’s PM accuses Putin of building ‘new camps’ - The Times of Israel',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'On Holocaust Remembrance Day, Poland’s PM accuses Putin of building ‘new camps’ - The Times of Israel'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktcG9sYW5kcy1wbS1hY2N1c2VzLXB1dGluLW9mLWJ1aWxkaW5nLW5ldy1jYW1wcy_SAW5odHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9vbi1ob2xvY2F1c3QtcmVtZW1icmFuY2UtZGF5LXBvbGFuZHMtcG0tYWNjdXNlcy1wdXRpbi1vZi1idWlsZGluZy1uZXctY2FtcHMvYW1wLw?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktcG9sYW5kcy1wbS1hY2N1c2VzLXB1dGluLW9mLWJ1aWxkaW5nLW5ldy1jYW1wcy_SAW5odHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9vbi1ob2xvY2F1c3QtcmVtZW1icmFuY2UtZGF5LXBvbGFuZHMtcG0tYWNjdXNlcy1wdXRpbi1vZi1idWlsZGluZy1uZXctY2FtcHMvYW1wLw?oc=5',
+        'id': '1753493160',
+        'guidislink': False,
+        'published': 'Sat, 28 Jan 2023 06:52:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 28, tm_hour = 6, tm_min = 52, tm_sec = 0, tm_wday = 5, tm_yday = 28, tm_isdst = 0),
+        'summary': '<ol><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktcG9sYW5kcy1wbS1hY2N1c2VzLXB1dGluLW9mLWJ1aWxkaW5nLW5ldy1jYW1wcy_SAW5odHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9vbi1ob2xvY2F1c3QtcmVtZW1icmFuY2UtZGF5LXBvbGFuZHMtcG0tYWNjdXNlcy1wdXRpbi1vZi1idWlsZGluZy1uZXctY2FtcHMvYW1wLw?oc=5" target="_blank">On Holocaust Remembrance Day, Poland’s PM accuses Putin of building ‘new camps’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9wdXRpbi11c2VzLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktYXR0YWNrLWV2aWwtdWtyYWluZS0xNzc3MTc20gEA?oc=5" target="_blank">Putin Uses Holocaust Remembrance Day to Attack \'Evil\' Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Newsweek</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3QyYVZZY1V2MzDSAQA?oc=5" target="_blank">Putin schools U.S.-led West; Lashes out at backers of \'Neo-Nazis\' operating in Ukraine | Watch</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktemVsZW5za3ktdXJnZXMtd29ybGQtdG8tb3ZlcmNvbWUtaW5kaWZmZXJlbmNlL9IBbWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktemVsZW5za3ktdXJnZXMtd29ybGQtdG8tb3ZlcmNvbWUtaW5kaWZmZXJlbmNlL2FtcC8?oc=5" target="_blank">On Holocaust Remembrance Day, Zelensky urges world to ‘overcome indifference’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WnllM1JJek9ublXSAQA?oc=5" target="_blank">Ukraine dispatch: \'Mass graves scattered everywhere you go\' | Holocaust memorial day</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li><li><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lvM1pERUJoRjJxU3hwU2xZVGNpZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong></li></ol>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<ol><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktcG9sYW5kcy1wbS1hY2N1c2VzLXB1dGluLW9mLWJ1aWxkaW5nLW5ldy1jYW1wcy_SAW5odHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9vbi1ob2xvY2F1c3QtcmVtZW1icmFuY2UtZGF5LXBvbGFuZHMtcG0tYWNjdXNlcy1wdXRpbi1vZi1idWlsZGluZy1uZXctY2FtcHMvYW1wLw?oc=5" target="_blank">On Holocaust Remembrance Day, Poland’s PM accuses Putin of building ‘new camps’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9wdXRpbi11c2VzLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktYXR0YWNrLWV2aWwtdWtyYWluZS0xNzc3MTc20gEA?oc=5" target="_blank">Putin Uses Holocaust Remembrance Day to Attack \'Evil\' Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Newsweek</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3QyYVZZY1V2MzDSAQA?oc=5" target="_blank">Putin schools U.S.-led West; Lashes out at backers of \'Neo-Nazis\' operating in Ukraine | Watch</a>&nbsp;&nbsp;<font color="#6f6f6f">Hindustan Times</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktemVsZW5za3ktdXJnZXMtd29ybGQtdG8tb3ZlcmNvbWUtaW5kaWZmZXJlbmNlL9IBbWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktemVsZW5za3ktdXJnZXMtd29ybGQtdG8tb3ZlcmNvbWUtaW5kaWZmZXJlbmNlL2FtcC8?oc=5" target="_blank">On Holocaust Remembrance Day, Zelensky urges world to ‘overcome indifference’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of Israel</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WnllM1JJek9ublXSAQA?oc=5" target="_blank">Ukraine dispatch: \'Mass graves scattered everywhere you go\' | Holocaust memorial day</a>&nbsp;&nbsp;<font color="#6f6f6f">The Telegraph</font></li><li><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lvM1pERUJoRjJxU3hwU2xZVGNpZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong></li></ol>'
+        },
+        'source': {
+            'href': 'https://www.timesofisrael.com',
+            'title': 'The Times of Israel'
+        },
+        'sub_articles': [{
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktcG9sYW5kcy1wbS1hY2N1c2VzLXB1dGluLW9mLWJ1aWxkaW5nLW5ldy1jYW1wcy_SAW5odHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9vbi1ob2xvY2F1c3QtcmVtZW1icmFuY2UtZGF5LXBvbGFuZHMtcG0tYWNjdXNlcy1wdXRpbi1vZi1idWlsZGluZy1uZXctY2FtcHMvYW1wLw?oc=5',
+            'title': 'On Holocaust Remembrance Day, Poland’s PM accuses Putin of building ‘new camps’',
+            'publisher': 'The Times of Israel'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiWWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9wdXRpbi11c2VzLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktYXR0YWNrLWV2aWwtdWtyYWluZS0xNzc3MTc20gEA?oc=5',
+            'title': "Putin Uses Holocaust Remembrance Day to Attack 'Evil' Ukraine",
+            'publisher': 'Newsweek'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3QyYVZZY1V2MzDSAQA?oc=5',
+            'title': "Putin schools U.S.-led West; Lashes out at backers of 'Neo-Nazis' operating in Ukraine | Watch",
+            'publisher': 'Hindustan Times'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktemVsZW5za3ktdXJnZXMtd29ybGQtdG8tb3ZlcmNvbWUtaW5kaWZmZXJlbmNlL9IBbWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL29uLWhvbG9jYXVzdC1yZW1lbWJyYW5jZS1kYXktemVsZW5za3ktdXJnZXMtd29ybGQtdG8tb3ZlcmNvbWUtaW5kaWZmZXJlbmNlL2FtcC8?oc=5',
+            'title': 'On Holocaust Remembrance Day, Zelensky urges world to ‘overcome indifference’',
+            'publisher': 'The Times of Israel'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WnllM1JJek9ublXSAQA?oc=5',
+            'title': "Ukraine dispatch: 'Mass graves scattered everywhere you go' | Holocaust memorial day",
+            'publisher': 'The Telegraph'
+        }]
+    }, {
+        'title': 'Poland bulks up to defeat history - GZERO Media',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland bulks up to defeat history - GZERO Media'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL3BvbGFuZC1idWxrcy11cC10by1kZWZlYXQtaGlzdG9yedIBS2h0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL2FtcC9wb2xhbmQtYnVsa3MtdXAtdG8tZGVmZWF0LWhpc3RvcnktMjY1OTMxMzk4Nw?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL3BvbGFuZC1idWxrcy11cC10by1kZWZlYXQtaGlzdG9yedIBS2h0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL2FtcC9wb2xhbmQtYnVsa3MtdXAtdG8tZGVmZWF0LWhpc3RvcnktMjY1OTMxMzk4Nw?oc=5',
+        'id': 'CBMiPGh0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL3BvbGFuZC1idWxrcy11cC10by1kZWZlYXQtaGlzdG9yedIBS2h0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL2FtcC9wb2xhbmQtYnVsa3MtdXAtdG8tZGVmZWF0LWhpc3RvcnktMjY1OTMxMzk4Nw',
+        'guidislink': False,
+        'published': 'Thu, 26 Jan 2023 15:37:09 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 26, tm_hour = 15, tm_min = 37, tm_sec = 9, tm_wday = 3, tm_yday = 26, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL3BvbGFuZC1idWxrcy11cC10by1kZWZlYXQtaGlzdG9yedIBS2h0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL2FtcC9wb2xhbmQtYnVsa3MtdXAtdG8tZGVmZWF0LWhpc3RvcnktMjY1OTMxMzk4Nw?oc=5" target="_blank">Poland bulks up to defeat history</a>&nbsp;&nbsp;<font color="#6f6f6f">GZERO Media</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiPGh0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL3BvbGFuZC1idWxrcy11cC10by1kZWZlYXQtaGlzdG9yedIBS2h0dHBzOi8vd3d3Lmd6ZXJvbWVkaWEuY29tL2FtcC9wb2xhbmQtYnVsa3MtdXAtdG8tZGVmZWF0LWhpc3RvcnktMjY1OTMxMzk4Nw?oc=5" target="_blank">Poland bulks up to defeat history</a>&nbsp;&nbsp;<font color="#6f6f6f">GZERO Media</font>'
+        },
+        'source': {
+            'href': 'https://www.gzeromedia.com',
+            'title': 'GZERO Media'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland to send 60 modernised tanks to Ukraine in addition to Leopards - Reuters',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland to send 60 modernised tanks to Ukraine in addition to Leopards - Reuters'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wb2xhbmQtc2VuZC02MC1tb2Rlcm5pc2VkLXRhbmtzLXVrcmFpbmUtYWRkaXRpb24tbGVvcGFyZHMtMjAyMy0wMS0yNy_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wb2xhbmQtc2VuZC02MC1tb2Rlcm5pc2VkLXRhbmtzLXVrcmFpbmUtYWRkaXRpb24tbGVvcGFyZHMtMjAyMy0wMS0yNy_SAQA?oc=5',
+        'id': 'CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wb2xhbmQtc2VuZC02MC1tb2Rlcm5pc2VkLXRhbmtzLXVrcmFpbmUtYWRkaXRpb24tbGVvcGFyZHMtMjAyMy0wMS0yNy_SAQA',
+        'guidislink': False,
+        'published': 'Fri, 27 Jan 2023 12:55:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 27, tm_hour = 12, tm_min = 55, tm_sec = 0, tm_wday = 4, tm_yday = 27, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wb2xhbmQtc2VuZC02MC1tb2Rlcm5pc2VkLXRhbmtzLXVrcmFpbmUtYWRkaXRpb24tbGVvcGFyZHMtMjAyMy0wMS0yNy_SAQA?oc=5" target="_blank">Poland to send 60 modernised tanks to Ukraine in addition to Leopards</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pDeGNyQ0JoSG1QcFhTR2tZVWNDZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9wb2xhbmQtc2VuZC02MC1tb2Rlcm5pc2VkLXRhbmtzLXVrcmFpbmUtYWRkaXRpb24tbGVvcGFyZHMtMjAyMy0wMS0yNy_SAQA?oc=5" target="_blank">Poland to send 60 modernised tanks to Ukraine in addition to Leopards</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pDeGNyQ0JoSG1QcFhTR2tZVWNDZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong>'
+        },
+        'source': {
+            'href': 'https://www.reuters.com',
+            'title': 'Reuters'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Disabled 14-year-old rape victim refused abortion in Poland by hospitals in her province - Notes From Poland',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Disabled 14-year-old rape victim refused abortion in Poland by hospitals in her province - Notes From Poland'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL25vdGVzZnJvbXBvbGFuZC5jb20vMjAyMy8wMS8yNS9kaXNhYmxlZC0xNC15ZWFyLW9sZC1yYXBlLXZpY3RpbS1yZWZ1c2VkLWFib3J0aW9uLWluLXBvbGFuZC1ieS1ob3NwaXRhbHMtaW4taGVyLXByb3ZpbmNlL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL25vdGVzZnJvbXBvbGFuZC5jb20vMjAyMy8wMS8yNS9kaXNhYmxlZC0xNC15ZWFyLW9sZC1yYXBlLXZpY3RpbS1yZWZ1c2VkLWFib3J0aW9uLWluLXBvbGFuZC1ieS1ob3NwaXRhbHMtaW4taGVyLXByb3ZpbmNlL9IBAA?oc=5',
+        'id': 'CBMigAFodHRwczovL25vdGVzZnJvbXBvbGFuZC5jb20vMjAyMy8wMS8yNS9kaXNhYmxlZC0xNC15ZWFyLW9sZC1yYXBlLXZpY3RpbS1yZWZ1c2VkLWFib3J0aW9uLWluLXBvbGFuZC1ieS1ob3NwaXRhbHMtaW4taGVyLXByb3ZpbmNlL9IBAA',
+        'guidislink': False,
+        'published': 'Wed, 25 Jan 2023 09:33:21 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 25, tm_hour = 9, tm_min = 33, tm_sec = 21, tm_wday = 2, tm_yday = 25, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL25vdGVzZnJvbXBvbGFuZC5jb20vMjAyMy8wMS8yNS9kaXNhYmxlZC0xNC15ZWFyLW9sZC1yYXBlLXZpY3RpbS1yZWZ1c2VkLWFib3J0aW9uLWluLXBvbGFuZC1ieS1ob3NwaXRhbHMtaW4taGVyLXByb3ZpbmNlL9IBAA?oc=5" target="_blank">Disabled 14-year-old rape victim refused abortion in Poland by hospitals in her province</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMigAFodHRwczovL25vdGVzZnJvbXBvbGFuZC5jb20vMjAyMy8wMS8yNS9kaXNhYmxlZC0xNC15ZWFyLW9sZC1yYXBlLXZpY3RpbS1yZWZ1c2VkLWFib3J0aW9uLWluLXBvbGFuZC1ieS1ob3NwaXRhbHMtaW4taGVyLXByb3ZpbmNlL9IBAA?oc=5" target="_blank">Disabled 14-year-old rape victim refused abortion in Poland by hospitals in her province</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>'
+        },
+        'source': {
+            'href': 'https://notesfrompoland.com',
+            'title': 'Notes From Poland'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Poland Recruits Record Number Of Soldiers Following Russia's Invasion Of Ukraine - Radio Free Europe / Radio Liberty",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Poland Recruits Record Number Of Soldiers Following Russia's Invasion Of Ukraine - Radio Free Europe / Radio Liberty"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL3BvbGFuZC1zb2xkaWVycy1yZWNvcmQtcmVjcnVpdG1lbnQtcnVzc2lhLWludmFzaW9uLXVrcmFpbmUvMzIyNDM5ODguaHRtbNIBYmh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hbXAvcG9sYW5kLXNvbGRpZXJzLXJlY29yZC1yZWNydWl0bWVudC1ydXNzaWEtaW52YXNpb24tdWtyYWluZS8zMjI0Mzk4OC5odG1s?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL3BvbGFuZC1zb2xkaWVycy1yZWNvcmQtcmVjcnVpdG1lbnQtcnVzc2lhLWludmFzaW9uLXVrcmFpbmUvMzIyNDM5ODguaHRtbNIBYmh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hbXAvcG9sYW5kLXNvbGRpZXJzLXJlY29yZC1yZWNydWl0bWVudC1ydXNzaWEtaW52YXNpb24tdWtyYWluZS8zMjI0Mzk4OC5odG1s?oc=5',
+        'id': 'CBMiYGh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL3BvbGFuZC1zb2xkaWVycy1yZWNvcmQtcmVjcnVpdG1lbnQtcnVzc2lhLWludmFzaW9uLXVrcmFpbmUvMzIyNDM5ODguaHRtbNIBYmh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hbXAvcG9sYW5kLXNvbGRpZXJzLXJlY29yZC1yZWNydWl0bWVudC1ydXNzaWEtaW52YXNpb24tdWtyYWluZS8zMjI0Mzk4OC5odG1s',
+        'guidislink': False,
+        'published': 'Sat, 28 Jan 2023 18:48:04 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 28, tm_hour = 18, tm_min = 48, tm_sec = 4, tm_wday = 5, tm_yday = 28, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL3BvbGFuZC1zb2xkaWVycy1yZWNvcmQtcmVjcnVpdG1lbnQtcnVzc2lhLWludmFzaW9uLXVrcmFpbmUvMzIyNDM5ODguaHRtbNIBYmh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hbXAvcG9sYW5kLXNvbGRpZXJzLXJlY29yZC1yZWNydWl0bWVudC1ydXNzaWEtaW52YXNpb24tdWtyYWluZS8zMjI0Mzk4OC5odG1s?oc=5" target="_blank">Poland Recruits Record Number Of Soldiers Following Russia\'s Invasion Of Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Radio Free Europe / Radio Liberty</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hL3BvbGFuZC1zb2xkaWVycy1yZWNvcmQtcmVjcnVpdG1lbnQtcnVzc2lhLWludmFzaW9uLXVrcmFpbmUvMzIyNDM5ODguaHRtbNIBYmh0dHBzOi8vd3d3LnJmZXJsLm9yZy9hbXAvcG9sYW5kLXNvbGRpZXJzLXJlY29yZC1yZWNydWl0bWVudC1ydXNzaWEtaW52YXNpb24tdWtyYWluZS8zMjI0Mzk4OC5odG1s?oc=5" target="_blank">Poland Recruits Record Number Of Soldiers Following Russia\'s Invasion Of Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Radio Free Europe / Radio Liberty</font>'
+        },
+        'source': {
+            'href': 'https://www.rferl.org',
+            'title': 'Radio Free Europe / Radio Liberty'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Open the doors to NATO and the EU, says Poland's President Duda - Euronews",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Open the doors to NATO and the EU, says Poland's President Duda - Euronews"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIzL29wZW4tdGhlLWRvb3JzLXRvLW5hdG8tYW5kLXRoZS1ldS1zYXlzLXBvbGFuZHMtcHJlc2lkZW50LWR1ZGHSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjMvb3Blbi10aGUtZG9vcnMtdG8tbmF0by1hbmQtdGhlLWV1LXNheXMtcG9sYW5kcy1wcmVzaWRlbnQtZHVkYQ?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIzL29wZW4tdGhlLWRvb3JzLXRvLW5hdG8tYW5kLXRoZS1ldS1zYXlzLXBvbGFuZHMtcHJlc2lkZW50LWR1ZGHSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjMvb3Blbi10aGUtZG9vcnMtdG8tbmF0by1hbmQtdGhlLWV1LXNheXMtcG9sYW5kcy1wcmVzaWRlbnQtZHVkYQ?oc=5',
+        'id': 'CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIzL29wZW4tdGhlLWRvb3JzLXRvLW5hdG8tYW5kLXRoZS1ldS1zYXlzLXBvbGFuZHMtcHJlc2lkZW50LWR1ZGHSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjMvb3Blbi10aGUtZG9vcnMtdG8tbmF0by1hbmQtdGhlLWV1LXNheXMtcG9sYW5kcy1wcmVzaWRlbnQtZHVkYQ',
+        'guidislink': False,
+        'published': 'Mon, 23 Jan 2023 16:02:12 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 23, tm_hour = 16, tm_min = 2, tm_sec = 12, tm_wday = 0, tm_yday = 23, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIzL29wZW4tdGhlLWRvb3JzLXRvLW5hdG8tYW5kLXRoZS1ldS1zYXlzLXBvbGFuZHMtcHJlc2lkZW50LWR1ZGHSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjMvb3Blbi10aGUtZG9vcnMtdG8tbmF0by1hbmQtdGhlLWV1LXNheXMtcG9sYW5kcy1wcmVzaWRlbnQtZHVkYQ?oc=5" target="_blank">Open the doors to NATO and the EU, says Poland\'s President Duda</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIzL29wZW4tdGhlLWRvb3JzLXRvLW5hdG8tYW5kLXRoZS1ldS1zYXlzLXBvbGFuZHMtcHJlc2lkZW50LWR1ZGHSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjMvb3Blbi10aGUtZG9vcnMtdG8tbmF0by1hbmQtdGhlLWV1LXNheXMtcG9sYW5kcy1wcmVzaWRlbnQtZHVkYQ?oc=5" target="_blank">Open the doors to NATO and the EU, says Poland\'s President Duda</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews</font>'
+        },
+        'source': {
+            'href': 'https://www.euronews.com',
+            'title': 'Euronews'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Minister: Germany won't block Poland giving Ukraine tanks - Yahoo News",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Minister: Germany won't block Poland giving Ukraine tanks - Yahoo News"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWzSAVRodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWw?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWzSAVRodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWw?oc=5',
+        'id': 'CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWzSAVRodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWw',
+        'guidislink': False,
+        'published': 'Sun, 22 Jan 2023 15:43:21 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 22, tm_hour = 15, tm_min = 43, tm_sec = 21, tm_wday = 6, tm_yday = 22, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWzSAVRodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWw?oc=5" target="_blank">Minister: Germany won\'t block Poland giving Ukraine tanks</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiTGh0dHBzOi8vbmV3cy55YWhvby5jb20vcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWzSAVRodHRwczovL25ld3MueWFob28uY29tL2FtcGh0bWwvcnVzc2lhLW9mZmljaWFsLXdhcm5zLXdlc3QtZGVzdHJ1Y3Rpb24tMTU0MzIxODc0Lmh0bWw?oc=5" target="_blank">Minister: Germany won\'t block Poland giving Ukraine tanks</a>&nbsp;&nbsp;<font color="#6f6f6f">Yahoo News</font>'
+        },
+        'source': {
+            'href': 'https://news.yahoo.com',
+            'title': 'Yahoo News'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland Handball World Championship | National Sports | bdtonline.com - Bluefield Daily Telegraph',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland Handball World Championship | National Sports | bdtonline.com - Bluefield Daily Telegraph'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL3Nwb3J0cy9uYXRpb25hbF9zcG9ydHMvcG9sYW5kLWhhbmRiYWxsLXdvcmxkLWNoYW1waW9uc2hpcC9pbWFnZV9kMTlmYjAwZC03MmFlLTVlNGMtYTc2MC01ODExZjlmZjU4MWMuaHRtbNIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL3Nwb3J0cy9uYXRpb25hbF9zcG9ydHMvcG9sYW5kLWhhbmRiYWxsLXdvcmxkLWNoYW1waW9uc2hpcC9pbWFnZV9kMTlmYjAwZC03MmFlLTVlNGMtYTc2MC01ODExZjlmZjU4MWMuaHRtbNIBAA?oc=5',
+        'id': 'CBMigwFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL3Nwb3J0cy9uYXRpb25hbF9zcG9ydHMvcG9sYW5kLWhhbmRiYWxsLXdvcmxkLWNoYW1waW9uc2hpcC9pbWFnZV9kMTlmYjAwZC03MmFlLTVlNGMtYTc2MC01ODExZjlmZjU4MWMuaHRtbNIBAA',
+        'guidislink': False,
+        'published': 'Fri, 27 Jan 2023 16:02:14 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 27, tm_hour = 16, tm_min = 2, tm_sec = 14, tm_wday = 4, tm_yday = 27, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL3Nwb3J0cy9uYXRpb25hbF9zcG9ydHMvcG9sYW5kLWhhbmRiYWxsLXdvcmxkLWNoYW1waW9uc2hpcC9pbWFnZV9kMTlmYjAwZC03MmFlLTVlNGMtYTc2MC01ODExZjlmZjU4MWMuaHRtbNIBAA?oc=5" target="_blank">Poland Handball World Championship | National Sports | bdtonline.com</a>&nbsp;&nbsp;<font color="#6f6f6f">Bluefield Daily Telegraph</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMigwFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL3Nwb3J0cy9uYXRpb25hbF9zcG9ydHMvcG9sYW5kLWhhbmRiYWxsLXdvcmxkLWNoYW1waW9uc2hpcC9pbWFnZV9kMTlmYjAwZC03MmFlLTVlNGMtYTc2MC01ODExZjlmZjU4MWMuaHRtbNIBAA?oc=5" target="_blank">Poland Handball World Championship | National Sports | bdtonline.com</a>&nbsp;&nbsp;<font color="#6f6f6f">Bluefield Daily Telegraph</font>'
+        },
+        'source': {
+            'href': 'https://www.bdtonline.com',
+            'title': 'Bluefield Daily Telegraph'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'It’s all or nothing for Poland’s ruling PiS party this year - POLITICO Europe',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'It’s all or nothing for Poland’s ruling PiS party this year - POLITICO Europe'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvaXRzLWFsbC1vci1ub3RoaW5nLWZvci1wb2xhbmRzLXBpcy10aGlzLXllYXIta2Fjenluc2tpLW1vcmF3aWVja2ktcnVsZS1vZi1sYXcv0gFyaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9pdHMtYWxsLW9yLW5vdGhpbmctZm9yLXBvbGFuZHMtcGlzLXRoaXMteWVhci1rYWN6eW5za2ktbW9yYXdpZWNraS1ydWxlLW9mLWxhdy9hbXAv?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvaXRzLWFsbC1vci1ub3RoaW5nLWZvci1wb2xhbmRzLXBpcy10aGlzLXllYXIta2Fjenluc2tpLW1vcmF3aWVja2ktcnVsZS1vZi1sYXcv0gFyaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9pdHMtYWxsLW9yLW5vdGhpbmctZm9yLXBvbGFuZHMtcGlzLXRoaXMteWVhci1rYWN6eW5za2ktbW9yYXdpZWNraS1ydWxlLW9mLWxhdy9hbXAv?oc=5',
+        'id': 'CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvaXRzLWFsbC1vci1ub3RoaW5nLWZvci1wb2xhbmRzLXBpcy10aGlzLXllYXIta2Fjenluc2tpLW1vcmF3aWVja2ktcnVsZS1vZi1sYXcv0gFyaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9pdHMtYWxsLW9yLW5vdGhpbmctZm9yLXBvbGFuZHMtcGlzLXRoaXMteWVhci1rYWN6eW5za2ktbW9yYXdpZWNraS1ydWxlLW9mLWxhdy9hbXAv',
+        'guidislink': False,
+        'published': 'Thu, 05 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 5, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 5, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvaXRzLWFsbC1vci1ub3RoaW5nLWZvci1wb2xhbmRzLXBpcy10aGlzLXllYXIta2Fjenluc2tpLW1vcmF3aWVja2ktcnVsZS1vZi1sYXcv0gFyaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9pdHMtYWxsLW9yLW5vdGhpbmctZm9yLXBvbGFuZHMtcGlzLXRoaXMteWVhci1rYWN6eW5za2ktbW9yYXdpZWNraS1ydWxlLW9mLWxhdy9hbXAv?oc=5" target="_blank">It’s all or nothing for Poland’s ruling PiS party this year</a>&nbsp;&nbsp;<font color="#6f6f6f">POLITICO Europe</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvaXRzLWFsbC1vci1ub3RoaW5nLWZvci1wb2xhbmRzLXBpcy10aGlzLXllYXIta2Fjenluc2tpLW1vcmF3aWVja2ktcnVsZS1vZi1sYXcv0gFyaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9pdHMtYWxsLW9yLW5vdGhpbmctZm9yLXBvbGFuZHMtcGlzLXRoaXMteWVhci1rYWN6eW5za2ktbW9yYXdpZWNraS1ydWxlLW9mLWxhdy9hbXAv?oc=5" target="_blank">It’s all or nothing for Poland’s ruling PiS party this year</a>&nbsp;&nbsp;<font color="#6f6f6f">POLITICO Europe</font>'
+        },
+        'source': {
+            'href': 'https://www.politico.eu',
+            'title': 'POLITICO Europe'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'CEE MARKETS-Currencies rise, with focus on EU funds for Hungary and Poland - Nasdaq',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'CEE MARKETS-Currencies rise, with focus on EU funds for Hungary and Poland - Nasdaq'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvY2VlLW1hcmtldHMtY3VycmVuY2llcy1yaXNlLXdpdGgtZm9jdXMtb24tZXUtZnVuZHMtZm9yLWh1bmdhcnktYW5kLXBvbGFuZNIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvY2VlLW1hcmtldHMtY3VycmVuY2llcy1yaXNlLXdpdGgtZm9jdXMtb24tZXUtZnVuZHMtZm9yLWh1bmdhcnktYW5kLXBvbGFuZNIBAA?oc=5',
+        'id': 'CBMiaWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvY2VlLW1hcmtldHMtY3VycmVuY2llcy1yaXNlLXdpdGgtZm9jdXMtb24tZXUtZnVuZHMtZm9yLWh1bmdhcnktYW5kLXBvbGFuZNIBAA',
+        'guidislink': False,
+        'published': 'Wed, 25 Jan 2023 10:10:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 25, tm_hour = 10, tm_min = 10, tm_sec = 0, tm_wday = 2, tm_yday = 25, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvY2VlLW1hcmtldHMtY3VycmVuY2llcy1yaXNlLXdpdGgtZm9jdXMtb24tZXUtZnVuZHMtZm9yLWh1bmdhcnktYW5kLXBvbGFuZNIBAA?oc=5" target="_blank">CEE MARKETS-Currencies rise, with focus on EU funds for Hungary and Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Nasdaq</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3Lm5hc2RhcS5jb20vYXJ0aWNsZXMvY2VlLW1hcmtldHMtY3VycmVuY2llcy1yaXNlLXdpdGgtZm9jdXMtb24tZXUtZnVuZHMtZm9yLWh1bmdhcnktYW5kLXBvbGFuZNIBAA?oc=5" target="_blank">CEE MARKETS-Currencies rise, with focus on EU funds for Hungary and Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Nasdaq</font>'
+        },
+        'source': {
+            'href': 'https://www.nasdaq.com',
+            'title': 'Nasdaq'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland pressures Germany on war reparations - DW (English)',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland pressures Germany on war reparations - DW (English)'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9wb2xhbmQtdXBzLXByZXNzdXJlLW9uLWdlcm1hbnktdG8taXNzdWUtd2FyLXJlcGFyYXRpb25zL2EtNjQzMDA4NTfSAVhodHRwczovL2FtcC5kdy5jb20vZW4vcG9sYW5kLXVwcy1wcmVzc3VyZS1vbi1nZXJtYW55LXRvLWlzc3VlLXdhci1yZXBhcmF0aW9ucy9hLTY0MzAwODU3?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9wb2xhbmQtdXBzLXByZXNzdXJlLW9uLWdlcm1hbnktdG8taXNzdWUtd2FyLXJlcGFyYXRpb25zL2EtNjQzMDA4NTfSAVhodHRwczovL2FtcC5kdy5jb20vZW4vcG9sYW5kLXVwcy1wcmVzc3VyZS1vbi1nZXJtYW55LXRvLWlzc3VlLXdhci1yZXBhcmF0aW9ucy9hLTY0MzAwODU3?oc=5',
+        'id': 'CBMiWGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9wb2xhbmQtdXBzLXByZXNzdXJlLW9uLWdlcm1hbnktdG8taXNzdWUtd2FyLXJlcGFyYXRpb25zL2EtNjQzMDA4NTfSAVhodHRwczovL2FtcC5kdy5jb20vZW4vcG9sYW5kLXVwcy1wcmVzc3VyZS1vbi1nZXJtYW55LXRvLWlzc3VlLXdhci1yZXBhcmF0aW9ucy9hLTY0MzAwODU3',
+        'guidislink': False,
+        'published': 'Sat, 07 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 7, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 5, tm_yday = 7, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9wb2xhbmQtdXBzLXByZXNzdXJlLW9uLWdlcm1hbnktdG8taXNzdWUtd2FyLXJlcGFyYXRpb25zL2EtNjQzMDA4NTfSAVhodHRwczovL2FtcC5kdy5jb20vZW4vcG9sYW5kLXVwcy1wcmVzc3VyZS1vbi1nZXJtYW55LXRvLWlzc3VlLXdhci1yZXBhcmF0aW9ucy9hLTY0MzAwODU3?oc=5" target="_blank">Poland pressures Germany on war reparations</a>&nbsp;&nbsp;<font color="#6f6f6f">DW (English)</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiWGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9wb2xhbmQtdXBzLXByZXNzdXJlLW9uLWdlcm1hbnktdG8taXNzdWUtd2FyLXJlcGFyYXRpb25zL2EtNjQzMDA4NTfSAVhodHRwczovL2FtcC5kdy5jb20vZW4vcG9sYW5kLXVwcy1wcmVzc3VyZS1vbi1nZXJtYW55LXRvLWlzc3VlLXdhci1yZXBhcmF0aW9ucy9hLTY0MzAwODU3?oc=5" target="_blank">Poland pressures Germany on war reparations</a>&nbsp;&nbsp;<font color="#6f6f6f">DW (English)</font>'
+        },
+        'source': {
+            'href': 'https://www.dw.com',
+            'title': 'DW (English)'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Parliament approves changes to Poland's electoral code as opposition cries foul - Notes From Poland",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Parliament approves changes to Poland's electoral code as opposition cries foul - Notes From Poland"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzI3L3BhcmxpYW1lbnQtYXBwcm92ZXMtY2hhbmdlcy10by1wb2xhbmRzLWVsZWN0b3JhbC1jb2RlLWFzLW9wcG9zaXRpb24tY3JpZXMtZm91bC_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzI3L3BhcmxpYW1lbnQtYXBwcm92ZXMtY2hhbmdlcy10by1wb2xhbmRzLWVsZWN0b3JhbC1jb2RlLWFzLW9wcG9zaXRpb24tY3JpZXMtZm91bC_SAQA?oc=5',
+        'id': 'CBMidmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzI3L3BhcmxpYW1lbnQtYXBwcm92ZXMtY2hhbmdlcy10by1wb2xhbmRzLWVsZWN0b3JhbC1jb2RlLWFzLW9wcG9zaXRpb24tY3JpZXMtZm91bC_SAQA',
+        'guidislink': False,
+        'published': 'Fri, 27 Jan 2023 10:53:33 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 27, tm_hour = 10, tm_min = 53, tm_sec = 33, tm_wday = 4, tm_yday = 27, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzI3L3BhcmxpYW1lbnQtYXBwcm92ZXMtY2hhbmdlcy10by1wb2xhbmRzLWVsZWN0b3JhbC1jb2RlLWFzLW9wcG9zaXRpb24tY3JpZXMtZm91bC_SAQA?oc=5" target="_blank">Parliament approves changes to Poland\'s electoral code as opposition cries foul</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMidmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzI3L3BhcmxpYW1lbnQtYXBwcm92ZXMtY2hhbmdlcy10by1wb2xhbmRzLWVsZWN0b3JhbC1jb2RlLWFzLW9wcG9zaXRpb24tY3JpZXMtZm91bC_SAQA?oc=5" target="_blank">Parliament approves changes to Poland\'s electoral code as opposition cries foul</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>'
+        },
+        'source': {
+            'href': 'https://notesfrompoland.com',
+            'title': 'Notes From Poland'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Video does not show American tanks on a train in Poland - Berkshire Eagle',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Video does not show American tanks on a train in Poland - Berkshire Eagle'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy5iZXJrc2hpcmVlYWdsZS5jb20vYXAvZmFjdGNoZWNrL3ZpZGVvLWRvZXMtbm90LXNob3ctYW1lcmljYW4tdGFua3Mtb24tYS10cmFpbi1pbi1wb2xhbmQvYXJ0aWNsZV8wNGFlNDQyMi05ZTc3LTExZWQtYmE0ZS04YmRhMzg5YWU1YTkuaHRtbNIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy5iZXJrc2hpcmVlYWdsZS5jb20vYXAvZmFjdGNoZWNrL3ZpZGVvLWRvZXMtbm90LXNob3ctYW1lcmljYW4tdGFua3Mtb24tYS10cmFpbi1pbi1wb2xhbmQvYXJ0aWNsZV8wNGFlNDQyMi05ZTc3LTExZWQtYmE0ZS04YmRhMzg5YWU1YTkuaHRtbNIBAA?oc=5',
+        'id': 'CBMilQFodHRwczovL3d3dy5iZXJrc2hpcmVlYWdsZS5jb20vYXAvZmFjdGNoZWNrL3ZpZGVvLWRvZXMtbm90LXNob3ctYW1lcmljYW4tdGFua3Mtb24tYS10cmFpbi1pbi1wb2xhbmQvYXJ0aWNsZV8wNGFlNDQyMi05ZTc3LTExZWQtYmE0ZS04YmRhMzg5YWU1YTkuaHRtbNIBAA',
+        'guidislink': False,
+        'published': 'Sat, 28 Jan 2023 17:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 28, tm_hour = 17, tm_min = 0, tm_sec = 0, tm_wday = 5, tm_yday = 28, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy5iZXJrc2hpcmVlYWdsZS5jb20vYXAvZmFjdGNoZWNrL3ZpZGVvLWRvZXMtbm90LXNob3ctYW1lcmljYW4tdGFua3Mtb24tYS10cmFpbi1pbi1wb2xhbmQvYXJ0aWNsZV8wNGFlNDQyMi05ZTc3LTExZWQtYmE0ZS04YmRhMzg5YWU1YTkuaHRtbNIBAA?oc=5" target="_blank">Video does not show American tanks on a train in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Berkshire Eagle</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMilQFodHRwczovL3d3dy5iZXJrc2hpcmVlYWdsZS5jb20vYXAvZmFjdGNoZWNrL3ZpZGVvLWRvZXMtbm90LXNob3ctYW1lcmljYW4tdGFua3Mtb24tYS10cmFpbi1pbi1wb2xhbmQvYXJ0aWNsZV8wNGFlNDQyMi05ZTc3LTExZWQtYmE0ZS04YmRhMzg5YWU1YTkuaHRtbNIBAA?oc=5" target="_blank">Video does not show American tanks on a train in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Berkshire Eagle</font>'
+        },
+        'source': {
+            'href': 'https://www.berkshireeagle.com',
+            'title': 'Berkshire Eagle'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Watch: Heavy snowfall returns to Poland causing chaos on roads - Euronews',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Watch: Heavy snowfall returns to Poland causing chaos on roads - Euronews'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIxL3dhdGNoLWhlYXZ5LXNub3dmYWxsLXJldHVybnMtdG8tcG9sYW5kLWNhdXNpbmctY2hhb3Mtb24tcm9hZHPSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjEvd2F0Y2gtaGVhdnktc25vd2ZhbGwtcmV0dXJucy10by1wb2xhbmQtY2F1c2luZy1jaGFvcy1vbi1yb2Fkcw?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIxL3dhdGNoLWhlYXZ5LXNub3dmYWxsLXJldHVybnMtdG8tcG9sYW5kLWNhdXNpbmctY2hhb3Mtb24tcm9hZHPSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjEvd2F0Y2gtaGVhdnktc25vd2ZhbGwtcmV0dXJucy10by1wb2xhbmQtY2F1c2luZy1jaGFvcy1vbi1yb2Fkcw?oc=5',
+        'id': 'CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIxL3dhdGNoLWhlYXZ5LXNub3dmYWxsLXJldHVybnMtdG8tcG9sYW5kLWNhdXNpbmctY2hhb3Mtb24tcm9hZHPSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjEvd2F0Y2gtaGVhdnktc25vd2ZhbGwtcmV0dXJucy10by1wb2xhbmQtY2F1c2luZy1jaGFvcy1vbi1yb2Fkcw',
+        'guidislink': False,
+        'published': 'Sat, 21 Jan 2023 19:03:21 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 21, tm_hour = 19, tm_min = 3, tm_sec = 21, tm_wday = 5, tm_yday = 21, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIxL3dhdGNoLWhlYXZ5LXNub3dmYWxsLXJldHVybnMtdG8tcG9sYW5kLWNhdXNpbmctY2hhb3Mtb24tcm9hZHPSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjEvd2F0Y2gtaGVhdnktc25vd2ZhbGwtcmV0dXJucy10by1wb2xhbmQtY2F1c2luZy1jaGFvcy1vbi1yb2Fkcw?oc=5" target="_blank">Watch: Heavy snowfall returns to Poland causing chaos on roads</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmV1cm9uZXdzLmNvbS8yMDIzLzAxLzIxL3dhdGNoLWhlYXZ5LXNub3dmYWxsLXJldHVybnMtdG8tcG9sYW5kLWNhdXNpbmctY2hhb3Mtb24tcm9hZHPSAWVodHRwczovL3d3dy5ldXJvbmV3cy5jb20vYW1wLzIwMjMvMDEvMjEvd2F0Y2gtaGVhdnktc25vd2ZhbGwtcmV0dXJucy10by1wb2xhbmQtY2F1c2luZy1jaGFvcy1vbi1yb2Fkcw?oc=5" target="_blank">Watch: Heavy snowfall returns to Poland causing chaos on roads</a>&nbsp;&nbsp;<font color="#6f6f6f">Euronews</font>'
+        },
+        'source': {
+            'href': 'https://www.euronews.com',
+            'title': 'Euronews'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Santos seen in Poland on eve of new coach announcement - Daily Union',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Santos seen in Poland on eve of new coach announcement - Daily Union'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5kYWlseXVuaW9uLmNvbS9zcG9ydHMvbmF0aW9uYWwvc2FudG9zLXNlZW4taW4tcG9sYW5kLW9uLWV2ZS1vZi1uZXctY29hY2gtYW5ub3VuY2VtZW50L2FydGljbGVfMjRhYWVhNTktMjUzNy01MjEwLWFjYjQtYjVhYjUwYjkzN2NkLmh0bWzSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5kYWlseXVuaW9uLmNvbS9zcG9ydHMvbmF0aW9uYWwvc2FudG9zLXNlZW4taW4tcG9sYW5kLW9uLWV2ZS1vZi1uZXctY29hY2gtYW5ub3VuY2VtZW50L2FydGljbGVfMjRhYWVhNTktMjUzNy01MjEwLWFjYjQtYjVhYjUwYjkzN2NkLmh0bWzSAQA?oc=5',
+        'id': '1750710980',
+        'guidislink': False,
+        'published': 'Mon, 23 Jan 2023 16:52:29 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 23, tm_hour = 16, tm_min = 52, tm_sec = 29, tm_wday = 0, tm_yday = 23, tm_isdst = 0),
+        'summary': '<ol><li><a href="https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5kYWlseXVuaW9uLmNvbS9zcG9ydHMvbmF0aW9uYWwvc2FudG9zLXNlZW4taW4tcG9sYW5kLW9uLWV2ZS1vZi1uZXctY29hY2gtYW5ub3VuY2VtZW50L2FydGljbGVfMjRhYWVhNTktMjUzNy01MjEwLWFjYjQtYjVhYjUwYjkzN2NkLmh0bWzSAQA?oc=5" target="_blank">Santos seen in Poland on eve of new coach announcement</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Union</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvc3BvcnRzL2Zvb3RiYWxsL25ld3MvZm9ybWVyLXBvcnR1Z2FsLWNvYWNoLXNhbnRvcy1zZXQtYmUtbmFtZWQtcG9sYW5kLW1hbmFnZXItMzIyOTA1NtIBdmh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvc3BvcnRzL2Zvb3RiYWxsL25ld3MvZm9ybWVyLXBvcnR1Z2FsLWNvYWNoLXNhbnRvcy1zZXQtYmUtbmFtZWQtcG9sYW5kLW1hbmFnZXItMzIyOTA1Nj9hbXA?oc=5" target="_blank">Former Portugal coach Santos set to be named Poland manager</a>&nbsp;&nbsp;<font color="#6f6f6f">The Daily Star</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LnRoZTQyLmllL2Zlcm5hbmRvLXNhbnRvcy1wb2xhbmQtY29hY2gtNTk3ODA3NS1KYW4yMDIzL9IBAA?oc=5" target="_blank">Santos finds new manager job one month after quitting as Portugal boss</a>&nbsp;&nbsp;<font color="#6f6f6f">The42</font></li><li><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pFOWViQ0JoR2UxaDREekpQSmhDZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong></li></ol>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<ol><li><a href="https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5kYWlseXVuaW9uLmNvbS9zcG9ydHMvbmF0aW9uYWwvc2FudG9zLXNlZW4taW4tcG9sYW5kLW9uLWV2ZS1vZi1uZXctY29hY2gtYW5ub3VuY2VtZW50L2FydGljbGVfMjRhYWVhNTktMjUzNy01MjEwLWFjYjQtYjVhYjUwYjkzN2NkLmh0bWzSAQA?oc=5" target="_blank">Santos seen in Poland on eve of new coach announcement</a>&nbsp;&nbsp;<font color="#6f6f6f">Daily Union</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvc3BvcnRzL2Zvb3RiYWxsL25ld3MvZm9ybWVyLXBvcnR1Z2FsLWNvYWNoLXNhbnRvcy1zZXQtYmUtbmFtZWQtcG9sYW5kLW1hbmFnZXItMzIyOTA1NtIBdmh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvc3BvcnRzL2Zvb3RiYWxsL25ld3MvZm9ybWVyLXBvcnR1Z2FsLWNvYWNoLXNhbnRvcy1zZXQtYmUtbmFtZWQtcG9sYW5kLW1hbmFnZXItMzIyOTA1Nj9hbXA?oc=5" target="_blank">Former Portugal coach Santos set to be named Poland manager</a>&nbsp;&nbsp;<font color="#6f6f6f">The Daily Star</font></li><li><a href="https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LnRoZTQyLmllL2Zlcm5hbmRvLXNhbnRvcy1wb2xhbmQtY29hY2gtNTk3ODA3NS1KYW4yMDIzL9IBAA?oc=5" target="_blank">Santos finds new manager job one month after quitting as Portugal boss</a>&nbsp;&nbsp;<font color="#6f6f6f">The42</font></li><li><strong><a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pFOWViQ0JoR2UxaDREekpQSmhDZ0FQAQ?oc=5" target="_blank">View Full Coverage on Google News</a></strong></li></ol>'
+        },
+        'source': {
+            'href': 'https://www.dailyunion.com',
+            'title': 'Daily Union'
+        },
+        'sub_articles': [{
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMikwFodHRwczovL3d3dy5kYWlseXVuaW9uLmNvbS9zcG9ydHMvbmF0aW9uYWwvc2FudG9zLXNlZW4taW4tcG9sYW5kLW9uLWV2ZS1vZi1uZXctY29hY2gtYW5ub3VuY2VtZW50L2FydGljbGVfMjRhYWVhNTktMjUzNy01MjEwLWFjYjQtYjVhYjUwYjkzN2NkLmh0bWzSAQA?oc=5',
+            'title': 'Santos seen in Poland on eve of new coach announcement',
+            'publisher': 'Daily Union'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvc3BvcnRzL2Zvb3RiYWxsL25ld3MvZm9ybWVyLXBvcnR1Z2FsLWNvYWNoLXNhbnRvcy1zZXQtYmUtbmFtZWQtcG9sYW5kLW1hbmFnZXItMzIyOTA1NtIBdmh0dHBzOi8vd3d3LnRoZWRhaWx5c3Rhci5uZXQvc3BvcnRzL2Zvb3RiYWxsL25ld3MvZm9ybWVyLXBvcnR1Z2FsLWNvYWNoLXNhbnRvcy1zZXQtYmUtbmFtZWQtcG9sYW5kLW1hbmFnZXItMzIyOTA1Nj9hbXA?oc=5',
+            'title': 'Former Portugal coach Santos set to be named Poland manager',
+            'publisher': 'The Daily Star'
+        }, {
+            'url': 'https://news.google.com/__i/rss/rd/articles/CBMiQmh0dHBzOi8vd3d3LnRoZTQyLmllL2Zlcm5hbmRvLXNhbnRvcy1wb2xhbmQtY29hY2gtNTk3ODA3NS1KYW4yMDIzL9IBAA?oc=5',
+            'title': 'Santos finds new manager job one month after quitting as Portugal boss',
+            'publisher': 'The42'
+        }]
+    }, {
+        'title': "Poland is leading Europe's response to the Russian invasion of Ukraine - Atlantic Council",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Poland is leading Europe's response to the Russian invasion of Ukraine - Atlantic Council"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvYmxvZ3MvdWtyYWluZWFsZXJ0L3BvbGFuZC1pcy1sZWFkaW5nLWV1cm9wZXMtcmVzcG9uc2UtdG8tdGhlLXJ1c3NpYW4taW52YXNpb24tb2YtdWtyYWluZS_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvYmxvZ3MvdWtyYWluZWFsZXJ0L3BvbGFuZC1pcy1sZWFkaW5nLWV1cm9wZXMtcmVzcG9uc2UtdG8tdGhlLXJ1c3NpYW4taW52YXNpb24tb2YtdWtyYWluZS_SAQA?oc=5',
+        'id': 'CBMieWh0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvYmxvZ3MvdWtyYWluZWFsZXJ0L3BvbGFuZC1pcy1sZWFkaW5nLWV1cm9wZXMtcmVzcG9uc2UtdG8tdGhlLXJ1c3NpYW4taW52YXNpb24tb2YtdWtyYWluZS_SAQA',
+        'guidislink': False,
+        'published': 'Sat, 28 Jan 2023 22:37:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 28, tm_hour = 22, tm_min = 37, tm_sec = 0, tm_wday = 5, tm_yday = 28, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvYmxvZ3MvdWtyYWluZWFsZXJ0L3BvbGFuZC1pcy1sZWFkaW5nLWV1cm9wZXMtcmVzcG9uc2UtdG8tdGhlLXJ1c3NpYW4taW52YXNpb24tb2YtdWtyYWluZS_SAQA?oc=5" target="_blank">Poland is leading Europe\'s response to the Russian invasion of Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Atlantic Council</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMieWh0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvYmxvZ3MvdWtyYWluZWFsZXJ0L3BvbGFuZC1pcy1sZWFkaW5nLWV1cm9wZXMtcmVzcG9uc2UtdG8tdGhlLXJ1c3NpYW4taW52YXNpb24tb2YtdWtyYWluZS_SAQA?oc=5" target="_blank">Poland is leading Europe\'s response to the Russian invasion of Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Atlantic Council</font>'
+        },
+        'source': {
+            'href': 'https://www.atlanticcouncil.org',
+            'title': 'Atlantic Council'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Poland condemns Ukraine's commemoration of wartime nationalist leader Bandera - Notes From Poland",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Poland condemns Ukraine's commemoration of wartime nationalist leader Bandera - Notes From Poland"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzAyL3BvbGFuZC1jb25kZW1ucy11a3JhaW5lcy1jb21tZW1vcmF0aW9uLW9mLXdhcnRpbWUtbmF0aW9uYWxpc3QtbGVhZGVyLWJhbmRlcmEv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzAyL3BvbGFuZC1jb25kZW1ucy11a3JhaW5lcy1jb21tZW1vcmF0aW9uLW9mLXdhcnRpbWUtbmF0aW9uYWxpc3QtbGVhZGVyLWJhbmRlcmEv0gEA?oc=5',
+        'id': 'CBMidGh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzAyL3BvbGFuZC1jb25kZW1ucy11a3JhaW5lcy1jb21tZW1vcmF0aW9uLW9mLXdhcnRpbWUtbmF0aW9uYWxpc3QtbGVhZGVyLWJhbmRlcmEv0gEA',
+        'guidislink': False,
+        'published': 'Mon, 02 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 2, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 0, tm_yday = 2, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzAyL3BvbGFuZC1jb25kZW1ucy11a3JhaW5lcy1jb21tZW1vcmF0aW9uLW9mLXdhcnRpbWUtbmF0aW9uYWxpc3QtbGVhZGVyLWJhbmRlcmEv0gEA?oc=5" target="_blank">Poland condemns Ukraine\'s commemoration of wartime nationalist leader Bandera</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMidGh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIzLzAxLzAyL3BvbGFuZC1jb25kZW1ucy11a3JhaW5lcy1jb21tZW1vcmF0aW9uLW9mLXdhcnRpbWUtbmF0aW9uYWxpc3QtbGVhZGVyLWJhbmRlcmEv0gEA?oc=5" target="_blank">Poland condemns Ukraine\'s commemoration of wartime nationalist leader Bandera</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>'
+        },
+        'source': {
+            'href': 'https://notesfrompoland.com',
+            'title': 'Notes From Poland'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland/Sweden 2023 | Islamic Republic of Iran vs Poland | © IHF - IHF',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland/Sweden 2023 | Islamic Republic of Iran vs Poland | © IHF - IHF'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmloZi5pbmZvL21lZGlhLWNlbnRlci9nYWxsZXJ5L3BvbGFuZHN3ZWRlbi0yMDIzLWlzbGFtaWMtcmVwdWJsaWMtaXJhbi12cy1wb2xhbmQtYy1paGbSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmloZi5pbmZvL21lZGlhLWNlbnRlci9nYWxsZXJ5L3BvbGFuZHN3ZWRlbi0yMDIzLWlzbGFtaWMtcmVwdWJsaWMtaXJhbi12cy1wb2xhbmQtYy1paGbSAQA?oc=5',
+        'id': 'CBMiYWh0dHBzOi8vd3d3LmloZi5pbmZvL21lZGlhLWNlbnRlci9nYWxsZXJ5L3BvbGFuZHN3ZWRlbi0yMDIzLWlzbGFtaWMtcmVwdWJsaWMtaXJhbi12cy1wb2xhbmQtYy1paGbSAQA',
+        'guidislink': False,
+        'published': 'Sun, 22 Jan 2023 19:54:13 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 22, tm_hour = 19, tm_min = 54, tm_sec = 13, tm_wday = 6, tm_yday = 22, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmloZi5pbmZvL21lZGlhLWNlbnRlci9nYWxsZXJ5L3BvbGFuZHN3ZWRlbi0yMDIzLWlzbGFtaWMtcmVwdWJsaWMtaXJhbi12cy1wb2xhbmQtYy1paGbSAQA?oc=5" target="_blank">Poland/Sweden 2023 | Islamic Republic of Iran vs Poland | © IHF</a>&nbsp;&nbsp;<font color="#6f6f6f">IHF</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vd3d3LmloZi5pbmZvL21lZGlhLWNlbnRlci9nYWxsZXJ5L3BvbGFuZHN3ZWRlbi0yMDIzLWlzbGFtaWMtcmVwdWJsaWMtaXJhbi12cy1wb2xhbmQtYy1paGbSAQA?oc=5" target="_blank">Poland/Sweden 2023 | Islamic Republic of Iran vs Poland | © IHF</a>&nbsp;&nbsp;<font color="#6f6f6f">IHF</font>'
+        },
+        'source': {
+            'href': 'https://www.ihf.info',
+            'title': 'IHF'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland signs deal to buy 2nd batch of Abrams tanks - Defense News',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland signs deal to buy 2nd batch of Abrams tanks - Defense News'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjMvMDEvMDQvcG9sYW5kLXNpZ25zLWRlYWwtdG8tYnV5LTJuZC1iYXRjaC1vZi11cy1hYnJhbXMtdGFua3Mv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjMvMDEvMDQvcG9sYW5kLXNpZ25zLWRlYWwtdG8tYnV5LTJuZC1iYXRjaC1vZi11cy1hYnJhbXMtdGFua3Mv0gEA?oc=5',
+        'id': 'CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjMvMDEvMDQvcG9sYW5kLXNpZ25zLWRlYWwtdG8tYnV5LTJuZC1iYXRjaC1vZi11cy1hYnJhbXMtdGFua3Mv0gEA',
+        'guidislink': False,
+        'published': 'Wed, 04 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 4, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 4, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjMvMDEvMDQvcG9sYW5kLXNpZ25zLWRlYWwtdG8tYnV5LTJuZC1iYXRjaC1vZi11cy1hYnJhbXMtdGFua3Mv0gEA?oc=5" target="_blank">Poland signs deal to buy 2nd batch of Abrams tanks</a>&nbsp;&nbsp;<font color="#6f6f6f">Defense News</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjMvMDEvMDQvcG9sYW5kLXNpZ25zLWRlYWwtdG8tYnV5LTJuZC1iYXRjaC1vZi11cy1hYnJhbXMtdGFua3Mv0gEA?oc=5" target="_blank">Poland signs deal to buy 2nd batch of Abrams tanks</a>&nbsp;&nbsp;<font color="#6f6f6f">Defense News</font>'
+        },
+        'source': {
+            'href': 'https://www.defensenews.com',
+            'title': 'Defense News'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'IBO announces exciting program for 2023 summit in Poland - Fresh Fruit Portal',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'IBO announces exciting program for 2023 summit in Poland - Fresh Fruit Portal'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmZyZXNoZnJ1aXRwb3J0YWwuY29tL25ld3MvMjAyMy8wMS8yNC9pYm8tYW5ub3VuY2VzLWV4Y2l0aW5nLXByb2dyYW0tZm9yLTIwMjMtc3VtbWl0LWluLXBvbGFuZC_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmZyZXNoZnJ1aXRwb3J0YWwuY29tL25ld3MvMjAyMy8wMS8yNC9pYm8tYW5ub3VuY2VzLWV4Y2l0aW5nLXByb2dyYW0tZm9yLTIwMjMtc3VtbWl0LWluLXBvbGFuZC_SAQA?oc=5',
+        'id': 'CBMiamh0dHBzOi8vd3d3LmZyZXNoZnJ1aXRwb3J0YWwuY29tL25ld3MvMjAyMy8wMS8yNC9pYm8tYW5ub3VuY2VzLWV4Y2l0aW5nLXByb2dyYW0tZm9yLTIwMjMtc3VtbWl0LWluLXBvbGFuZC_SAQA',
+        'guidislink': False,
+        'published': 'Tue, 24 Jan 2023 12:14:55 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 24, tm_hour = 12, tm_min = 14, tm_sec = 55, tm_wday = 1, tm_yday = 24, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmZyZXNoZnJ1aXRwb3J0YWwuY29tL25ld3MvMjAyMy8wMS8yNC9pYm8tYW5ub3VuY2VzLWV4Y2l0aW5nLXByb2dyYW0tZm9yLTIwMjMtc3VtbWl0LWluLXBvbGFuZC_SAQA?oc=5" target="_blank">IBO announces exciting program for 2023 summit in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Fresh Fruit Portal</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmZyZXNoZnJ1aXRwb3J0YWwuY29tL25ld3MvMjAyMy8wMS8yNC9pYm8tYW5ub3VuY2VzLWV4Y2l0aW5nLXByb2dyYW0tZm9yLTIwMjMtc3VtbWl0LWluLXBvbGFuZC_SAQA?oc=5" target="_blank">IBO announces exciting program for 2023 summit in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Fresh Fruit Portal</font>'
+        },
+        'source': {
+            'href': 'https://www.freshfruitportal.com',
+            'title': 'Fresh Fruit Portal'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland says Germany refused talks on World War II reparations - CNN',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland says Germany refused talks on World War II reparations - CNN'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8wNC9ldXJvcGUvcG9sYW5kLWdlcm1hbnktd3dpaS1yZXBhcmF0aW9ucy1pbnRsLXNjbGktZ3JtL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzA0L2V1cm9wZS9wb2xhbmQtZ2VybWFueS13d2lpLXJlcGFyYXRpb25zLWludGwtc2NsaS1ncm0vaW5kZXguaHRtbA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8wNC9ldXJvcGUvcG9sYW5kLWdlcm1hbnktd3dpaS1yZXBhcmF0aW9ucy1pbnRsLXNjbGktZ3JtL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzA0L2V1cm9wZS9wb2xhbmQtZ2VybWFueS13d2lpLXJlcGFyYXRpb25zLWludGwtc2NsaS1ncm0vaW5kZXguaHRtbA?oc=5',
+        'id': 'CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8wNC9ldXJvcGUvcG9sYW5kLWdlcm1hbnktd3dpaS1yZXBhcmF0aW9ucy1pbnRsLXNjbGktZ3JtL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzA0L2V1cm9wZS9wb2xhbmQtZ2VybWFueS13d2lpLXJlcGFyYXRpb25zLWludGwtc2NsaS1ncm0vaW5kZXguaHRtbA',
+        'guidislink': False,
+        'published': 'Wed, 04 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 4, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 4, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8wNC9ldXJvcGUvcG9sYW5kLWdlcm1hbnktd3dpaS1yZXBhcmF0aW9ucy1pbnRsLXNjbGktZ3JtL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzA0L2V1cm9wZS9wb2xhbmQtZ2VybWFueS13d2lpLXJlcGFyYXRpb25zLWludGwtc2NsaS1ncm0vaW5kZXguaHRtbA?oc=5" target="_blank">Poland says Germany refused talks on World War II reparations</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMS8wNC9ldXJvcGUvcG9sYW5kLWdlcm1hbnktd3dpaS1yZXBhcmF0aW9ucy1pbnRsLXNjbGktZ3JtL2luZGV4Lmh0bWzSAWJodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAxLzA0L2V1cm9wZS9wb2xhbmQtZ2VybWFueS13d2lpLXJlcGFyYXRpb25zLWludGwtc2NsaS1ncm0vaW5kZXguaHRtbA?oc=5" target="_blank">Poland says Germany refused talks on World War II reparations</a>&nbsp;&nbsp;<font color="#6f6f6f">CNN</font>'
+        },
+        'source': {
+            'href': 'https://www.cnn.com',
+            'title': 'CNN'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Melanie C cancels Poland concert over ‘issues brought to my attention’ - The Guardian',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Melanie C cancels Poland concert over ‘issues brought to my attention’ - The Guardian'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tdXNpYy8yMDIyL2RlYy8yNy9tZWxhbmllLWMtY2FuY2Vscy1wb2xhbmQtY29uY2VydC1pc3N1ZXMtYnJvdWdodC1hdHRlbnRpb24tbGdidHHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbXVzaWMvMjAyMi9kZWMvMjcvbWVsYW5pZS1jLWNhbmNlbHMtcG9sYW5kLWNvbmNlcnQtaXNzdWVzLWJyb3VnaHQtYXR0ZW50aW9uLWxnYnRx?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tdXNpYy8yMDIyL2RlYy8yNy9tZWxhbmllLWMtY2FuY2Vscy1wb2xhbmQtY29uY2VydC1pc3N1ZXMtYnJvdWdodC1hdHRlbnRpb24tbGdidHHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbXVzaWMvMjAyMi9kZWMvMjcvbWVsYW5pZS1jLWNhbmNlbHMtcG9sYW5kLWNvbmNlcnQtaXNzdWVzLWJyb3VnaHQtYXR0ZW50aW9uLWxnYnRx?oc=5',
+        'id': 'CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tdXNpYy8yMDIyL2RlYy8yNy9tZWxhbmllLWMtY2FuY2Vscy1wb2xhbmQtY29uY2VydC1pc3N1ZXMtYnJvdWdodC1hdHRlbnRpb24tbGdidHHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbXVzaWMvMjAyMi9kZWMvMjcvbWVsYW5pZS1jLWNhbmNlbHMtcG9sYW5kLWNvbmNlcnQtaXNzdWVzLWJyb3VnaHQtYXR0ZW50aW9uLWxnYnRx',
+        'guidislink': False,
+        'published': 'Tue, 27 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 27, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 361, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tdXNpYy8yMDIyL2RlYy8yNy9tZWxhbmllLWMtY2FuY2Vscy1wb2xhbmQtY29uY2VydC1pc3N1ZXMtYnJvdWdodC1hdHRlbnRpb24tbGdidHHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbXVzaWMvMjAyMi9kZWMvMjcvbWVsYW5pZS1jLWNhbmNlbHMtcG9sYW5kLWNvbmNlcnQtaXNzdWVzLWJyb3VnaHQtYXR0ZW50aW9uLWxnYnRx?oc=5" target="_blank">Melanie C cancels Poland concert over ‘issues brought to my attention’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tdXNpYy8yMDIyL2RlYy8yNy9tZWxhbmllLWMtY2FuY2Vscy1wb2xhbmQtY29uY2VydC1pc3N1ZXMtYnJvdWdodC1hdHRlbnRpb24tbGdidHHSAW1odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbXVzaWMvMjAyMi9kZWMvMjcvbWVsYW5pZS1jLWNhbmNlbHMtcG9sYW5kLWNvbmNlcnQtaXNzdWVzLWJyb3VnaHQtYXR0ZW50aW9uLWxnYnRx?oc=5" target="_blank">Melanie C cancels Poland concert over ‘issues brought to my attention’</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font>'
+        },
+        'source': {
+            'href': 'https://www.theguardian.com',
+            'title': 'The Guardian'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland buys two spy satellites from Airbus - Defense News',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland buys two spy satellites from Airbus - Defense News'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjIvMTIvMjgvcG9sYW5kLWJ1eXMtdHdvLXNweS1zYXRlbGxpdGVzLWZyb20tYWlyYnVzL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjIvMTIvMjgvcG9sYW5kLWJ1eXMtdHdvLXNweS1zYXRlbGxpdGVzLWZyb20tYWlyYnVzL9IBAA?oc=5',
+        'id': 'CBMiYGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjIvMTIvMjgvcG9sYW5kLWJ1eXMtdHdvLXNweS1zYXRlbGxpdGVzLWZyb20tYWlyYnVzL9IBAA',
+        'guidislink': False,
+        'published': 'Wed, 28 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 28, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 362, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjIvMTIvMjgvcG9sYW5kLWJ1eXMtdHdvLXNweS1zYXRlbGxpdGVzLWZyb20tYWlyYnVzL9IBAA?oc=5" target="_blank">Poland buys two spy satellites from Airbus</a>&nbsp;&nbsp;<font color="#6f6f6f">Defense News</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9nbG9iYWwvZXVyb3BlLzIwMjIvMTIvMjgvcG9sYW5kLWJ1eXMtdHdvLXNweS1zYXRlbGxpdGVzLWZyb20tYWlyYnVzL9IBAA?oc=5" target="_blank">Poland buys two spy satellites from Airbus</a>&nbsp;&nbsp;<font color="#6f6f6f">Defense News</font>'
+        },
+        'source': {
+            'href': 'https://www.defensenews.com',
+            'title': 'Defense News'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland: National Visa Application Submission Deadline Extended for Belarusian and Ukrainian Nationals - Fragomen',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland: National Visa Application Submission Deadline Extended for Belarusian and Ukrainian Nationals - Fragomen'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5mcmFnb21lbi5jb20vaW5zaWdodHMvcG9sYW5kLW5hdGlvbmFsLXZpc2EtYXBwbGljYXRpb24tc3VibWlzc2lvbi1kZWFkbGluZS1leHRlbmRlZC1mb3ItYmVsYXJ1c2lhbi1hbmQtdWtyYWluaWFuLW5hdGlvbmFscy5odG1s0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5mcmFnb21lbi5jb20vaW5zaWdodHMvcG9sYW5kLW5hdGlvbmFsLXZpc2EtYXBwbGljYXRpb24tc3VibWlzc2lvbi1kZWFkbGluZS1leHRlbmRlZC1mb3ItYmVsYXJ1c2lhbi1hbmQtdWtyYWluaWFuLW5hdGlvbmFscy5odG1s0gEA?oc=5',
+        'id': 'CBMiiwFodHRwczovL3d3dy5mcmFnb21lbi5jb20vaW5zaWdodHMvcG9sYW5kLW5hdGlvbmFsLXZpc2EtYXBwbGljYXRpb24tc3VibWlzc2lvbi1kZWFkbGluZS1leHRlbmRlZC1mb3ItYmVsYXJ1c2lhbi1hbmQtdWtyYWluaWFuLW5hdGlvbmFscy5odG1s0gEA',
+        'guidislink': False,
+        'published': 'Thu, 12 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 12, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 12, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5mcmFnb21lbi5jb20vaW5zaWdodHMvcG9sYW5kLW5hdGlvbmFsLXZpc2EtYXBwbGljYXRpb24tc3VibWlzc2lvbi1kZWFkbGluZS1leHRlbmRlZC1mb3ItYmVsYXJ1c2lhbi1hbmQtdWtyYWluaWFuLW5hdGlvbmFscy5odG1s0gEA?oc=5" target="_blank">Poland: National Visa Application Submission Deadline Extended for Belarusian and Ukrainian Nationals</a>&nbsp;&nbsp;<font color="#6f6f6f">Fragomen</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5mcmFnb21lbi5jb20vaW5zaWdodHMvcG9sYW5kLW5hdGlvbmFsLXZpc2EtYXBwbGljYXRpb24tc3VibWlzc2lvbi1kZWFkbGluZS1leHRlbmRlZC1mb3ItYmVsYXJ1c2lhbi1hbmQtdWtyYWluaWFuLW5hdGlvbmFscy5odG1s0gEA?oc=5" target="_blank">Poland: National Visa Application Submission Deadline Extended for Belarusian and Ukrainian Nationals</a>&nbsp;&nbsp;<font color="#6f6f6f">Fragomen</font>'
+        },
+        'source': {
+            'href': 'https://www.fragomen.com',
+            'title': 'Fragomen'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Ukraine gets its tanks: Poland sending Leopard 2, and other nations may follow - Breaking Defense',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Ukraine gets its tanks: Poland sending Leopard 2, and other nations may follow - Breaking Defense'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAxL3VrcmFpbmUtZ2V0cy1pdHMtdGFua3MtcG9sYW5kLXNlbmRpbmctbGVvcGFyZC0yLWFuZC1vdGhlci1uYXRpb25zLW1heS1mb2xsb3cv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAxL3VrcmFpbmUtZ2V0cy1pdHMtdGFua3MtcG9sYW5kLXNlbmRpbmctbGVvcGFyZC0yLWFuZC1vdGhlci1uYXRpb25zLW1heS1mb2xsb3cv0gEA?oc=5',
+        'id': 'CBMicWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAxL3VrcmFpbmUtZ2V0cy1pdHMtdGFua3MtcG9sYW5kLXNlbmRpbmctbGVvcGFyZC0yLWFuZC1vdGhlci1uYXRpb25zLW1heS1mb2xsb3cv0gEA',
+        'guidislink': False,
+        'published': 'Wed, 11 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 11, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 11, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAxL3VrcmFpbmUtZ2V0cy1pdHMtdGFua3MtcG9sYW5kLXNlbmRpbmctbGVvcGFyZC0yLWFuZC1vdGhlci1uYXRpb25zLW1heS1mb2xsb3cv0gEA?oc=5" target="_blank">Ukraine gets its tanks: Poland sending Leopard 2, and other nations may follow</a>&nbsp;&nbsp;<font color="#6f6f6f">Breaking Defense</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMicWh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIzLzAxL3VrcmFpbmUtZ2V0cy1pdHMtdGFua3MtcG9sYW5kLXNlbmRpbmctbGVvcGFyZC0yLWFuZC1vdGhlci1uYXRpb25zLW1heS1mb2xsb3cv0gEA?oc=5" target="_blank">Ukraine gets its tanks: Poland sending Leopard 2, and other nations may follow</a>&nbsp;&nbsp;<font color="#6f6f6f">Breaking Defense</font>'
+        },
+        'source': {
+            'href': 'https://breakingdefense.com',
+            'title': 'Breaking Defense'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland Elections Will Shape Relations with EU Countries - Bloomberg',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland Elections Will Shape Relations with EU Countries - Bloomberg'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTEwL3BvbGFuZC1lbGVjdGlvbnMtd2lsbC1zaGFwZS1yZWxhdGlvbnMtd2l0aC1ldS1jb3VudHJpZXPSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTEwL3BvbGFuZC1lbGVjdGlvbnMtd2lsbC1zaGFwZS1yZWxhdGlvbnMtd2l0aC1ldS1jb3VudHJpZXPSAQA?oc=5',
+        'id': 'CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTEwL3BvbGFuZC1lbGVjdGlvbnMtd2lsbC1zaGFwZS1yZWxhdGlvbnMtd2l0aC1ldS1jb3VudHJpZXPSAQA',
+        'guidislink': False,
+        'published': 'Mon, 09 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 9, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 0, tm_yday = 9, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTEwL3BvbGFuZC1lbGVjdGlvbnMtd2lsbC1zaGFwZS1yZWxhdGlvbnMtd2l0aC1ldS1jb3VudHJpZXPSAQA?oc=5" target="_blank">Poland Elections Will Shape Relations with EU Countries</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTEwL3BvbGFuZC1lbGVjdGlvbnMtd2lsbC1zaGFwZS1yZWxhdGlvbnMtd2l0aC1ldS1jb3VudHJpZXPSAQA?oc=5" target="_blank">Poland Elections Will Shape Relations with EU Countries</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font>'
+        },
+        'source': {
+            'href': 'https://www.bloomberg.com',
+            'title': 'Bloomberg'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'HIV prevention, diagnosis and care for Ukrainian refugees in Poland - World Health Organization',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'HIV prevention, diagnosis and care for Ukrainian refugees in Poland - World Health Organization'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3Lndoby5pbnQvZXVyb3BlL25ld3MvaXRlbS8yNy0xMi0yMDIyLWhpdi1wcmV2ZW50aW9uLS1kaWFnbm9zaXMtYW5kLWNhcmUtZm9yLXVrcmFpbmlhbi1yZWZ1Z2Vlcy1pbi1wb2xhbmTSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3Lndoby5pbnQvZXVyb3BlL25ld3MvaXRlbS8yNy0xMi0yMDIyLWhpdi1wcmV2ZW50aW9uLS1kaWFnbm9zaXMtYW5kLWNhcmUtZm9yLXVrcmFpbmlhbi1yZWZ1Z2Vlcy1pbi1wb2xhbmTSAQA?oc=5',
+        'id': 'CBMic2h0dHBzOi8vd3d3Lndoby5pbnQvZXVyb3BlL25ld3MvaXRlbS8yNy0xMi0yMDIyLWhpdi1wcmV2ZW50aW9uLS1kaWFnbm9zaXMtYW5kLWNhcmUtZm9yLXVrcmFpbmlhbi1yZWZ1Z2Vlcy1pbi1wb2xhbmTSAQA',
+        'guidislink': False,
+        'published': 'Tue, 27 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 27, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 361, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3Lndoby5pbnQvZXVyb3BlL25ld3MvaXRlbS8yNy0xMi0yMDIyLWhpdi1wcmV2ZW50aW9uLS1kaWFnbm9zaXMtYW5kLWNhcmUtZm9yLXVrcmFpbmlhbi1yZWZ1Z2Vlcy1pbi1wb2xhbmTSAQA?oc=5" target="_blank">HIV prevention, diagnosis and care for Ukrainian refugees in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">World Health Organization</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3Lndoby5pbnQvZXVyb3BlL25ld3MvaXRlbS8yNy0xMi0yMDIyLWhpdi1wcmV2ZW50aW9uLS1kaWFnbm9zaXMtYW5kLWNhcmUtZm9yLXVrcmFpbmlhbi1yZWZ1Z2Vlcy1pbi1wb2xhbmTSAQA?oc=5" target="_blank">HIV prevention, diagnosis and care for Ukrainian refugees in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">World Health Organization</font>'
+        },
+        'source': {
+            'href': 'https://www.who.int',
+            'title': 'World Health Organization'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Now could be Poland's moment — but it needs to play by the rules - Financial Times",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Now could be Poland's moment — but it needs to play by the rules - Financial Times"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JhNTc0YTNmLWMwMzktNDMyZS04MTExLTg0YTVhZGFiNjI5YdIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JhNTc0YTNmLWMwMzktNDMyZS04MTExLTg0YTVhZGFiNjI5YdIBAA?oc=5',
+        'id': 'CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JhNTc0YTNmLWMwMzktNDMyZS04MTExLTg0YTVhZGFiNjI5YdIBAA',
+        'guidislink': False,
+        'published': 'Thu, 15 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 15, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 349, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JhNTc0YTNmLWMwMzktNDMyZS04MTExLTg0YTVhZGFiNjI5YdIBAA?oc=5" target="_blank">Now could be Poland\'s moment — but it needs to play by the rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2JhNTc0YTNmLWMwMzktNDMyZS04MTExLTg0YTVhZGFiNjI5YdIBAA?oc=5" target="_blank">Now could be Poland\'s moment — but it needs to play by the rules</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>'
+        },
+        'source': {
+            'href': 'https://www.ft.com',
+            'title': 'Financial Times'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Up to 200000 Poles to be called up for military training next year - Notes From Poland',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Up to 200000 Poles to be called up for military training next year - Notes From Poland'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzEyLzA5L3VwLXRvLTIwMDAwMC1wb2xlcy10by1iZS1jYWxsZWQtdXAtZm9yLW1pbGl0YXJ5LXRyYWluaW5nLW5leHQteWVhci_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzEyLzA5L3VwLXRvLTIwMDAwMC1wb2xlcy10by1iZS1jYWxsZWQtdXAtZm9yLW1pbGl0YXJ5LXRyYWluaW5nLW5leHQteWVhci_SAQA?oc=5',
+        'id': 'CBMiamh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzEyLzA5L3VwLXRvLTIwMDAwMC1wb2xlcy10by1iZS1jYWxsZWQtdXAtZm9yLW1pbGl0YXJ5LXRyYWluaW5nLW5leHQteWVhci_SAQA',
+        'guidislink': False,
+        'published': 'Fri, 09 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 9, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 4, tm_yday = 343, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzEyLzA5L3VwLXRvLTIwMDAwMC1wb2xlcy10by1iZS1jYWxsZWQtdXAtZm9yLW1pbGl0YXJ5LXRyYWluaW5nLW5leHQteWVhci_SAQA?oc=5" target="_blank">Up to 200000 Poles to be called up for military training next year</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzEyLzA5L3VwLXRvLTIwMDAwMC1wb2xlcy10by1iZS1jYWxsZWQtdXAtZm9yLW1pbGl0YXJ5LXRyYWluaW5nLW5leHQteWVhci_SAQA?oc=5" target="_blank">Up to 200000 Poles to be called up for military training next year</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>'
+        },
+        'source': {
+            'href': 'https://notesfrompoland.com',
+            'title': 'Notes From Poland'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Ukraine Response 2022 - Poland: Refugee flows to Poland: needs and intentions survey - End-of-Year Factsheet - Data collected 12 April - 10 December 2022 - Poland - ReliefWeb',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Ukraine Response 2022 - Poland: Refugee flows to Poland: needs and intentions survey - End-of-Year Factsheet - Data collected 12 April - 10 December 2022 - Poland - ReliefWeb'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMirQFodHRwczovL3JlbGllZndlYi5pbnQvcmVwb3J0L3BvbGFuZC91a3JhaW5lLXJlc3BvbnNlLTIwMjItcG9sYW5kLXJlZnVnZWUtZmxvd3MtcG9sYW5kLW5lZWRzLWFuZC1pbnRlbnRpb25zLXN1cnZleS1lbmQteWVhci1mYWN0c2hlZXQtZGF0YS1jb2xsZWN0ZWQtMTItYXByaWwtMTAtZGVjZW1iZXItMjAyMtIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMirQFodHRwczovL3JlbGllZndlYi5pbnQvcmVwb3J0L3BvbGFuZC91a3JhaW5lLXJlc3BvbnNlLTIwMjItcG9sYW5kLXJlZnVnZWUtZmxvd3MtcG9sYW5kLW5lZWRzLWFuZC1pbnRlbnRpb25zLXN1cnZleS1lbmQteWVhci1mYWN0c2hlZXQtZGF0YS1jb2xsZWN0ZWQtMTItYXByaWwtMTAtZGVjZW1iZXItMjAyMtIBAA?oc=5',
+        'id': 'CBMirQFodHRwczovL3JlbGllZndlYi5pbnQvcmVwb3J0L3BvbGFuZC91a3JhaW5lLXJlc3BvbnNlLTIwMjItcG9sYW5kLXJlZnVnZWUtZmxvd3MtcG9sYW5kLW5lZWRzLWFuZC1pbnRlbnRpb25zLXN1cnZleS1lbmQteWVhci1mYWN0c2hlZXQtZGF0YS1jb2xsZWN0ZWQtMTItYXByaWwtMTAtZGVjZW1iZXItMjAyMtIBAA',
+        'guidislink': False,
+        'published': 'Wed, 28 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 28, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 362, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMirQFodHRwczovL3JlbGllZndlYi5pbnQvcmVwb3J0L3BvbGFuZC91a3JhaW5lLXJlc3BvbnNlLTIwMjItcG9sYW5kLXJlZnVnZWUtZmxvd3MtcG9sYW5kLW5lZWRzLWFuZC1pbnRlbnRpb25zLXN1cnZleS1lbmQteWVhci1mYWN0c2hlZXQtZGF0YS1jb2xsZWN0ZWQtMTItYXByaWwtMTAtZGVjZW1iZXItMjAyMtIBAA?oc=5" target="_blank">Ukraine Response 2022 - Poland: Refugee flows to Poland: needs and intentions survey - End-of-Year Factsheet - Data collected 12 April - 10 December 2022 - Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">ReliefWeb</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMirQFodHRwczovL3JlbGllZndlYi5pbnQvcmVwb3J0L3BvbGFuZC91a3JhaW5lLXJlc3BvbnNlLTIwMjItcG9sYW5kLXJlZnVnZWUtZmxvd3MtcG9sYW5kLW5lZWRzLWFuZC1pbnRlbnRpb25zLXN1cnZleS1lbmQteWVhci1mYWN0c2hlZXQtZGF0YS1jb2xsZWN0ZWQtMTItYXByaWwtMTAtZGVjZW1iZXItMjAyMtIBAA?oc=5" target="_blank">Ukraine Response 2022 - Poland: Refugee flows to Poland: needs and intentions survey - End-of-Year Factsheet - Data collected 12 April - 10 December 2022 - Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">ReliefWeb</font>'
+        },
+        'source': {
+            'href': 'https://reliefweb.int',
+            'title': 'ReliefWeb'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Poland's Extra-Budgetary Spending Raises Red Flags, IMF Warns - Bloomberg",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Poland's Extra-Budgetary Spending Raises Red Flags, IMF Warns - Bloomberg"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTExL2ltZi13YXJucy1wb2xhbmQtcy1leHRyYS1idWRnZXRhcnktc3BlbmRpbmctcmFpc2VzLXJlZC1mbGFnc9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTExL2ltZi13YXJucy1wb2xhbmQtcy1leHRyYS1idWRnZXRhcnktc3BlbmRpbmctcmFpc2VzLXJlZC1mbGFnc9IBAA?oc=5',
+        'id': 'CBMib2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTExL2ltZi13YXJucy1wb2xhbmQtcy1leHRyYS1idWRnZXRhcnktc3BlbmRpbmctcmFpc2VzLXJlZC1mbGFnc9IBAA',
+        'guidislink': False,
+        'published': 'Wed, 11 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 11, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 11, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTExL2ltZi13YXJucy1wb2xhbmQtcy1leHRyYS1idWRnZXRhcnktc3BlbmRpbmctcmFpc2VzLXJlZC1mbGFnc9IBAA?oc=5" target="_blank">Poland\'s Extra-Budgetary Spending Raises Red Flags, IMF Warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTAxLTExL2ltZi13YXJucy1wb2xhbmQtcy1leHRyYS1idWRnZXRhcnktc3BlbmRpbmctcmFpc2VzLXJlZC1mbGFnc9IBAA?oc=5" target="_blank">Poland\'s Extra-Budgetary Spending Raises Red Flags, IMF Warns</a>&nbsp;&nbsp;<font color="#6f6f6f">Bloomberg</font>'
+        },
+        'source': {
+            'href': 'https://www.bloomberg.com',
+            'title': 'Bloomberg'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Polymeropoulos on MSNBC discussing missile strike in Poland - Atlantic Council',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Polymeropoulos on MSNBC discussing missile strike in Poland - Atlantic Council'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvaW5zaWdodC1pbXBhY3QvaW4tdGhlLW5ld3MvcG9seW1lcm9wb3Vsb3Mtb24tbXNuYmMtb24tbWlzc2lsZS1zdHJpa2UtaW4tcG9sYW5kL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvaW5zaWdodC1pbXBhY3QvaW4tdGhlLW5ld3MvcG9seW1lcm9wb3Vsb3Mtb24tbXNuYmMtb24tbWlzc2lsZS1zdHJpa2UtaW4tcG9sYW5kL9IBAA?oc=5',
+        'id': 'CBMib2h0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvaW5zaWdodC1pbXBhY3QvaW4tdGhlLW5ld3MvcG9seW1lcm9wb3Vsb3Mtb24tbXNuYmMtb24tbWlzc2lsZS1zdHJpa2UtaW4tcG9sYW5kL9IBAA',
+        'guidislink': False,
+        'published': 'Fri, 02 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 2, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 4, tm_yday = 336, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvaW5zaWdodC1pbXBhY3QvaW4tdGhlLW5ld3MvcG9seW1lcm9wb3Vsb3Mtb24tbXNuYmMtb24tbWlzc2lsZS1zdHJpa2UtaW4tcG9sYW5kL9IBAA?oc=5" target="_blank">Polymeropoulos on MSNBC discussing missile strike in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Atlantic Council</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMib2h0dHBzOi8vd3d3LmF0bGFudGljY291bmNpbC5vcmcvaW5zaWdodC1pbXBhY3QvaW4tdGhlLW5ld3MvcG9seW1lcm9wb3Vsb3Mtb24tbXNuYmMtb24tbWlzc2lsZS1zdHJpa2UtaW4tcG9sYW5kL9IBAA?oc=5" target="_blank">Polymeropoulos on MSNBC discussing missile strike in Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">Atlantic Council</font>'
+        },
+        'source': {
+            'href': 'https://www.atlanticcouncil.org',
+            'title': 'Atlantic Council'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Ukraine defence minister says forces will train on German tanks in Poland - VOA - Reuters',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Ukraine defence minister says forces will train on German tanks in Poland - VOA - Reuters'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLWRlZmVuY2UtbWluaXN0ZXItc2F5cy1mb3JjZXMtd2lsbC10cmFpbi1nZXJtYW4tdGFua3MtcG9sYW5kLXZvYS0yMDIzLTAxLTIxL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLWRlZmVuY2UtbWluaXN0ZXItc2F5cy1mb3JjZXMtd2lsbC10cmFpbi1nZXJtYW4tdGFua3MtcG9sYW5kLXZvYS0yMDIzLTAxLTIxL9IBAA?oc=5',
+        'id': 'CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLWRlZmVuY2UtbWluaXN0ZXItc2F5cy1mb3JjZXMtd2lsbC10cmFpbi1nZXJtYW4tdGFua3MtcG9sYW5kLXZvYS0yMDIzLTAxLTIxL9IBAA',
+        'guidislink': False,
+        'published': 'Sat, 21 Jan 2023 00:18:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 21, tm_hour = 0, tm_min = 18, tm_sec = 0, tm_wday = 5, tm_yday = 21, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLWRlZmVuY2UtbWluaXN0ZXItc2F5cy1mb3JjZXMtd2lsbC10cmFpbi1nZXJtYW4tdGFua3MtcG9sYW5kLXZvYS0yMDIzLTAxLTIxL9IBAA?oc=5" target="_blank">Ukraine defence minister says forces will train on German tanks in Poland - VOA</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS91a3JhaW5lLWRlZmVuY2UtbWluaXN0ZXItc2F5cy1mb3JjZXMtd2lsbC10cmFpbi1nZXJtYW4tdGFua3MtcG9sYW5kLXZvYS0yMDIzLTAxLTIxL9IBAA?oc=5" target="_blank">Ukraine defence minister says forces will train on German tanks in Poland - VOA</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters</font>'
+        },
+        'source': {
+            'href': 'https://www.reuters.com',
+            'title': 'Reuters'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'EIB to finance modernisation of distribution networks in Poland and Czech Republic - PV-Tech',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'EIB to finance modernisation of distribution networks in Poland and Czech Republic - PV-Tech'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnB2LXRlY2gub3JnL2VpYi10by1maW5hbmNlLW1vZGVybmlzYXRpb24tb2YtZGlzdHJpYnV0aW9uLW5ldHdvcmtzLWluLXBvbGFuZC1hbmQtY3plY2gtcmVwdWJsaWMv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnB2LXRlY2gub3JnL2VpYi10by1maW5hbmNlLW1vZGVybmlzYXRpb24tb2YtZGlzdHJpYnV0aW9uLW5ldHdvcmtzLWluLXBvbGFuZC1hbmQtY3plY2gtcmVwdWJsaWMv0gEA?oc=5',
+        'id': 'CBMia2h0dHBzOi8vd3d3LnB2LXRlY2gub3JnL2VpYi10by1maW5hbmNlLW1vZGVybmlzYXRpb24tb2YtZGlzdHJpYnV0aW9uLW5ldHdvcmtzLWluLXBvbGFuZC1hbmQtY3plY2gtcmVwdWJsaWMv0gEA',
+        'guidislink': False,
+        'published': 'Tue, 13 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 13, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 347, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnB2LXRlY2gub3JnL2VpYi10by1maW5hbmNlLW1vZGVybmlzYXRpb24tb2YtZGlzdHJpYnV0aW9uLW5ldHdvcmtzLWluLXBvbGFuZC1hbmQtY3plY2gtcmVwdWJsaWMv0gEA?oc=5" target="_blank">EIB to finance modernisation of distribution networks in Poland and Czech Republic</a>&nbsp;&nbsp;<font color="#6f6f6f">PV-Tech</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnB2LXRlY2gub3JnL2VpYi10by1maW5hbmNlLW1vZGVybmlzYXRpb24tb2YtZGlzdHJpYnV0aW9uLW5ldHdvcmtzLWluLXBvbGFuZC1hbmQtY3plY2gtcmVwdWJsaWMv0gEA?oc=5" target="_blank">EIB to finance modernisation of distribution networks in Poland and Czech Republic</a>&nbsp;&nbsp;<font color="#6f6f6f">PV-Tech</font>'
+        },
+        'source': {
+            'href': 'https://www.pv-tech.org',
+            'title': 'PV-Tech'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Why Russia Keeps Insisting That Poland Is Preparing to Partition Ukraine - Carnegie Endowment for International Peace',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Why Russia Keeps Insisting That Poland Is Preparing to Partition Ukraine - Carnegie Endowment for International Peace'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnL3BvbGl0aWthLzg4NTg10gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnL3BvbGl0aWthLzg4NTg10gEA?oc=5',
+        'id': 'CBMiLGh0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnL3BvbGl0aWthLzg4NTg10gEA',
+        'guidislink': False,
+        'published': 'Wed, 07 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 7, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 341, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnL3BvbGl0aWthLzg4NTg10gEA?oc=5" target="_blank">Why Russia Keeps Insisting That Poland Is Preparing to Partition Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Carnegie Endowment for International Peace</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiLGh0dHBzOi8vY2FybmVnaWVlbmRvd21lbnQub3JnL3BvbGl0aWthLzg4NTg10gEA?oc=5" target="_blank">Why Russia Keeps Insisting That Poland Is Preparing to Partition Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Carnegie Endowment for International Peace</font>'
+        },
+        'source': {
+            'href': 'https://carnegieendowment.org',
+            'title': 'Carnegie Endowment for International Peace'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Meet Europe’s coming military superpower: Poland - POLITICO Europe',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Meet Europe’s coming military superpower: Poland - POLITICO Europe'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXVyb3BlLW1pbGl0YXJ5LXN1cGVycG93ZXItcG9sYW5kLWFybXkv0gFLaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9ldXJvcGUtbWlsaXRhcnktc3VwZXJwb3dlci1wb2xhbmQtYXJteS9hbXAv?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXVyb3BlLW1pbGl0YXJ5LXN1cGVycG93ZXItcG9sYW5kLWFybXkv0gFLaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9ldXJvcGUtbWlsaXRhcnktc3VwZXJwb3dlci1wb2xhbmQtYXJteS9hbXAv?oc=5',
+        'id': 'CBMiR2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXVyb3BlLW1pbGl0YXJ5LXN1cGVycG93ZXItcG9sYW5kLWFybXkv0gFLaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9ldXJvcGUtbWlsaXRhcnktc3VwZXJwb3dlci1wb2xhbmQtYXJteS9hbXAv',
+        'guidislink': False,
+        'published': 'Mon, 21 Nov 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 21, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 0, tm_yday = 325, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXVyb3BlLW1pbGl0YXJ5LXN1cGVycG93ZXItcG9sYW5kLWFybXkv0gFLaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9ldXJvcGUtbWlsaXRhcnktc3VwZXJwb3dlci1wb2xhbmQtYXJteS9hbXAv?oc=5" target="_blank">Meet Europe’s coming military superpower: Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">POLITICO Europe</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvZXVyb3BlLW1pbGl0YXJ5LXN1cGVycG93ZXItcG9sYW5kLWFybXkv0gFLaHR0cHM6Ly93d3cucG9saXRpY28uZXUvYXJ0aWNsZS9ldXJvcGUtbWlsaXRhcnktc3VwZXJwb3dlci1wb2xhbmQtYXJteS9hbXAv?oc=5" target="_blank">Meet Europe’s coming military superpower: Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">POLITICO Europe</font>'
+        },
+        'source': {
+            'href': 'https://www.politico.eu',
+            'title': 'POLITICO Europe'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Missile That Landed in Poland Wasn’t Launched by Russia, U.S., NATO Officials Say - National Review',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Missile That Landed in Poland Wasn’t Launched by Russia, U.S., NATO Officials Say - National Review'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3J1c3NpYW4tbWlzc2lsZXMtY3Jvc3MtaW50by1uYXRvLW1lbWJlci1wb2xhbmQta2lsbGluZy10d28tcmVwb3J0L9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3J1c3NpYW4tbWlzc2lsZXMtY3Jvc3MtaW50by1uYXRvLW1lbWJlci1wb2xhbmQta2lsbGluZy10d28tcmVwb3J0L9IBAA?oc=5',
+        'id': 'CBMiZmh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3J1c3NpYW4tbWlzc2lsZXMtY3Jvc3MtaW50by1uYXRvLW1lbWJlci1wb2xhbmQta2lsbGluZy10d28tcmVwb3J0L9IBAA',
+        'guidislink': False,
+        'published': 'Wed, 16 Nov 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 16, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 320, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3J1c3NpYW4tbWlzc2lsZXMtY3Jvc3MtaW50by1uYXRvLW1lbWJlci1wb2xhbmQta2lsbGluZy10d28tcmVwb3J0L9IBAA?oc=5" target="_blank">Missile That Landed in Poland Wasn’t Launched by Russia, U.S., NATO Officials Say</a>&nbsp;&nbsp;<font color="#6f6f6f">National Review</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3Lm5hdGlvbmFscmV2aWV3LmNvbS9uZXdzL3J1c3NpYW4tbWlzc2lsZXMtY3Jvc3MtaW50by1uYXRvLW1lbWJlci1wb2xhbmQta2lsbGluZy10d28tcmVwb3J0L9IBAA?oc=5" target="_blank">Missile That Landed in Poland Wasn’t Launched by Russia, U.S., NATO Officials Say</a>&nbsp;&nbsp;<font color="#6f6f6f">National Review</font>'
+        },
+        'source': {
+            'href': 'https://www.nationalreview.com',
+            'title': 'National Review'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Poland's implementation of the European Convention on Human Rights: Secretary General's Report - Council of Europe",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Poland's implementation of the European Convention on Human Rights: Secretary General's Report - Council of Europe"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5jb2UuaW50L2VuL3dlYi9wb3J0YWwvLS9wb2xhbmQtcy1pbXBsZW1lbnRhdGlvbi1vZi10aGUtZXVyb3BlYW4tY29udmVudGlvbi1vbi1odW1hbi1yaWdodHMtc2VjcmV0YXJ5LWdlbmVyYWwtcy1yZXBvcnTSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5jb2UuaW50L2VuL3dlYi9wb3J0YWwvLS9wb2xhbmQtcy1pbXBsZW1lbnRhdGlvbi1vZi10aGUtZXVyb3BlYW4tY29udmVudGlvbi1vbi1odW1hbi1yaWdodHMtc2VjcmV0YXJ5LWdlbmVyYWwtcy1yZXBvcnTSAQA?oc=5',
+        'id': 'CBMigQFodHRwczovL3d3dy5jb2UuaW50L2VuL3dlYi9wb3J0YWwvLS9wb2xhbmQtcy1pbXBsZW1lbnRhdGlvbi1vZi10aGUtZXVyb3BlYW4tY29udmVudGlvbi1vbi1odW1hbi1yaWdodHMtc2VjcmV0YXJ5LWdlbmVyYWwtcy1yZXBvcnTSAQA',
+        'guidislink': False,
+        'published': 'Wed, 23 Nov 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 23, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 327, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5jb2UuaW50L2VuL3dlYi9wb3J0YWwvLS9wb2xhbmQtcy1pbXBsZW1lbnRhdGlvbi1vZi10aGUtZXVyb3BlYW4tY29udmVudGlvbi1vbi1odW1hbi1yaWdodHMtc2VjcmV0YXJ5LWdlbmVyYWwtcy1yZXBvcnTSAQA?oc=5" target="_blank">Poland\'s implementation of the European Convention on Human Rights: Secretary General\'s Report</a>&nbsp;&nbsp;<font color="#6f6f6f">Council of Europe</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMigQFodHRwczovL3d3dy5jb2UuaW50L2VuL3dlYi9wb3J0YWwvLS9wb2xhbmQtcy1pbXBsZW1lbnRhdGlvbi1vZi10aGUtZXVyb3BlYW4tY29udmVudGlvbi1vbi1odW1hbi1yaWdodHMtc2VjcmV0YXJ5LWdlbmVyYWwtcy1yZXBvcnTSAQA?oc=5" target="_blank">Poland\'s implementation of the European Convention on Human Rights: Secretary General\'s Report</a>&nbsp;&nbsp;<font color="#6f6f6f">Council of Europe</font>'
+        },
+        'source': {
+            'href': 'https://www.coe.int',
+            'title': 'Council of Europe'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'White & Case advises Polish State Treasury on issuance of US$3 billion dual-tranche of SEC registered notes by Republic of Poland - White & Case LLP',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'White & Case advises Polish State Treasury on issuance of US$3 billion dual-tranche of SEC registered notes by Republic of Poland - White & Case LLP'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LndoaXRlY2FzZS5jb20vbmV3cy9wcmVzcy1yZWxlYXNlL3doaXRlLWNhc2UtYWR2aXNlcy1wb2xpc2gtc3RhdGUtdHJlYXN1cnktaXNzdWFuY2UtdXMzLWJpbGxpb24tZHVhbC10cmFuY2hlLXNlY9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LndoaXRlY2FzZS5jb20vbmV3cy9wcmVzcy1yZWxlYXNlL3doaXRlLWNhc2UtYWR2aXNlcy1wb2xpc2gtc3RhdGUtdHJlYXN1cnktaXNzdWFuY2UtdXMzLWJpbGxpb24tZHVhbC10cmFuY2hlLXNlY9IBAA?oc=5',
+        'id': 'CBMie2h0dHBzOi8vd3d3LndoaXRlY2FzZS5jb20vbmV3cy9wcmVzcy1yZWxlYXNlL3doaXRlLWNhc2UtYWR2aXNlcy1wb2xpc2gtc3RhdGUtdHJlYXN1cnktaXNzdWFuY2UtdXMzLWJpbGxpb24tZHVhbC10cmFuY2hlLXNlY9IBAA',
+        'guidislink': False,
+        'published': 'Wed, 16 Nov 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 16, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 320, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LndoaXRlY2FzZS5jb20vbmV3cy9wcmVzcy1yZWxlYXNlL3doaXRlLWNhc2UtYWR2aXNlcy1wb2xpc2gtc3RhdGUtdHJlYXN1cnktaXNzdWFuY2UtdXMzLWJpbGxpb24tZHVhbC10cmFuY2hlLXNlY9IBAA?oc=5" target="_blank">White & Case advises Polish State Treasury on issuance of US$3 billion dual-tranche of SEC registered notes by Republic of Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">White & Case LLP</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vd3d3LndoaXRlY2FzZS5jb20vbmV3cy9wcmVzcy1yZWxlYXNlL3doaXRlLWNhc2UtYWR2aXNlcy1wb2xpc2gtc3RhdGUtdHJlYXN1cnktaXNzdWFuY2UtdXMzLWJpbGxpb24tZHVhbC10cmFuY2hlLXNlY9IBAA?oc=5" target="_blank">White & Case advises Polish State Treasury on issuance of US$3 billion dual-tranche of SEC registered notes by Republic of Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">White & Case LLP</font>'
+        },
+        'source': {
+            'href': 'https://www.whitecase.com',
+            'title': 'White & Case LLP'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland: Funding from the EC to support those arriving from Ukraine - European Commission',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland: Funding from the EC to support those arriving from Ukraine - European Commission'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vZWMuZXVyb3BhLmV1L21pZ3JhbnQtaW50ZWdyYXRpb24vbmV3cy9wb2xhbmQtZnVuZGluZy1lYy1zdXBwb3J0LXRob3NlLWFycml2aW5nLXVrcmFpbmVfZW7SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vZWMuZXVyb3BhLmV1L21pZ3JhbnQtaW50ZWdyYXRpb24vbmV3cy9wb2xhbmQtZnVuZGluZy1lYy1zdXBwb3J0LXRob3NlLWFycml2aW5nLXVrcmFpbmVfZW7SAQA?oc=5',
+        'id': 'CBMiYWh0dHBzOi8vZWMuZXVyb3BhLmV1L21pZ3JhbnQtaW50ZWdyYXRpb24vbmV3cy9wb2xhbmQtZnVuZGluZy1lYy1zdXBwb3J0LXRob3NlLWFycml2aW5nLXVrcmFpbmVfZW7SAQA',
+        'guidislink': False,
+        'published': 'Fri, 28 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 28, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 4, tm_yday = 301, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vZWMuZXVyb3BhLmV1L21pZ3JhbnQtaW50ZWdyYXRpb24vbmV3cy9wb2xhbmQtZnVuZGluZy1lYy1zdXBwb3J0LXRob3NlLWFycml2aW5nLXVrcmFpbmVfZW7SAQA?oc=5" target="_blank">Poland: Funding from the EC to support those arriving from Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">European Commission</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYWh0dHBzOi8vZWMuZXVyb3BhLmV1L21pZ3JhbnQtaW50ZWdyYXRpb24vbmV3cy9wb2xhbmQtZnVuZGluZy1lYy1zdXBwb3J0LXRob3NlLWFycml2aW5nLXVrcmFpbmVfZW7SAQA?oc=5" target="_blank">Poland: Funding from the EC to support those arriving from Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">European Commission</font>'
+        },
+        'source': {
+            'href': 'https://ec.europa.eu',
+            'title': 'European Commission'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Czech Super T-72M4 Tanks Seen Headed To Poland-Ukraine Border - Forbes',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Czech Super T-72M4 Tanks Seen Headed To Poland-Ukraine Border - Forbes'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ViYXN0aWVucm9ibGluLzIwMjIvMTAvMjgvY3plY2gtc3VwZXItdC03Mm00LXRhbmtzLXNlZW4taGVhZGVkLXRvd2FyZHMtdWtyYWluZS_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ViYXN0aWVucm9ibGluLzIwMjIvMTAvMjgvY3plY2gtc3VwZXItdC03Mm00LXRhbmtzLXNlZW4taGVhZGVkLXRvd2FyZHMtdWtyYWluZS_SAQA?oc=5',
+        'id': 'CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ViYXN0aWVucm9ibGluLzIwMjIvMTAvMjgvY3plY2gtc3VwZXItdC03Mm00LXRhbmtzLXNlZW4taGVhZGVkLXRvd2FyZHMtdWtyYWluZS_SAQA',
+        'guidislink': False,
+        'published': 'Fri, 28 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 28, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 4, tm_yday = 301, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ViYXN0aWVucm9ibGluLzIwMjIvMTAvMjgvY3plY2gtc3VwZXItdC03Mm00LXRhbmtzLXNlZW4taGVhZGVkLXRvd2FyZHMtdWtyYWluZS_SAQA?oc=5" target="_blank">Czech Super T-72M4 Tanks Seen Headed To Poland-Ukraine Border</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvc2ViYXN0aWVucm9ibGluLzIwMjIvMTAvMjgvY3plY2gtc3VwZXItdC03Mm00LXRhbmtzLXNlZW4taGVhZGVkLXRvd2FyZHMtdWtyYWluZS_SAQA?oc=5" target="_blank">Czech Super T-72M4 Tanks Seen Headed To Poland-Ukraine Border</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font>'
+        },
+        'source': {
+            'href': 'https://www.forbes.com',
+            'title': 'Forbes'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'The Poison in Polish-German Relations - Carnegie Europe',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'The Poison in Polish-German Relations - Carnegie Europe'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vY2FybmVnaWVldXJvcGUuZXUvc3RyYXRlZ2ljZXVyb3BlLzg4NTA30gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vY2FybmVnaWVldXJvcGUuZXUvc3RyYXRlZ2ljZXVyb3BlLzg4NTA30gEA?oc=5',
+        'id': 'CBMiL2h0dHBzOi8vY2FybmVnaWVldXJvcGUuZXUvc3RyYXRlZ2ljZXVyb3BlLzg4NTA30gEA',
+        'guidislink': False,
+        'published': 'Tue, 29 Nov 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 29, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 333, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vY2FybmVnaWVldXJvcGUuZXUvc3RyYXRlZ2ljZXVyb3BlLzg4NTA30gEA?oc=5" target="_blank">The Poison in Polish-German Relations</a>&nbsp;&nbsp;<font color="#6f6f6f">Carnegie Europe</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiL2h0dHBzOi8vY2FybmVnaWVldXJvcGUuZXUvc3RyYXRlZ2ljZXVyb3BlLzg4NTA30gEA?oc=5" target="_blank">The Poison in Polish-German Relations</a>&nbsp;&nbsp;<font color="#6f6f6f">Carnegie Europe</font>'
+        },
+        'source': {
+            'href': 'https://carnegieeurope.eu',
+            'title': 'Carnegie Europe'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Polish defense minister: We won't waiver from supporting Ukraine - Defense News",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Polish defense minister: We won't waiver from supporting Ukraine - Defense News"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vdXRsb29rLzIwMjIvMTIvMDUvcG9saXNoLWRlZmVuc2UtbWluaXN0ZXItd2Utd29udC13YWl2ZXItZnJvbS1zdXBwb3J0aW5nLXVrcmFpbmUv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vdXRsb29rLzIwMjIvMTIvMDUvcG9saXNoLWRlZmVuc2UtbWluaXN0ZXItd2Utd29udC13YWl2ZXItZnJvbS1zdXBwb3J0aW5nLXVrcmFpbmUv0gEA?oc=5',
+        'id': 'CBMibmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vdXRsb29rLzIwMjIvMTIvMDUvcG9saXNoLWRlZmVuc2UtbWluaXN0ZXItd2Utd29udC13YWl2ZXItZnJvbS1zdXBwb3J0aW5nLXVrcmFpbmUv0gEA',
+        'guidislink': False,
+        'published': 'Thu, 08 Dec 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 12, tm_mday = 8, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 342, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vdXRsb29rLzIwMjIvMTIvMDUvcG9saXNoLWRlZmVuc2UtbWluaXN0ZXItd2Utd29udC13YWl2ZXItZnJvbS1zdXBwb3J0aW5nLXVrcmFpbmUv0gEA?oc=5" target="_blank">Polish defense minister: We won\'t waiver from supporting Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Defense News</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LmRlZmVuc2VuZXdzLmNvbS9vdXRsb29rLzIwMjIvMTIvMDUvcG9saXNoLWRlZmVuc2UtbWluaXN0ZXItd2Utd29udC13YWl2ZXItZnJvbS1zdXBwb3J0aW5nLXVrcmFpbmUv0gEA?oc=5" target="_blank">Polish defense minister: We won\'t waiver from supporting Ukraine</a>&nbsp;&nbsp;<font color="#6f6f6f">Defense News</font>'
+        },
+        'source': {
+            'href': 'https://www.defensenews.com',
+            'title': 'Defense News'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'The River Oder catastrophe - Poland is about to make it worse - EUobserver',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'The River Oder catastrophe - Poland is about to make it worse - EUobserver'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vZXVvYnNlcnZlci5jb20vb3Bpbmlvbi8xNTYzNjDSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vZXVvYnNlcnZlci5jb20vb3Bpbmlvbi8xNTYzNjDSAQA?oc=5',
+        'id': 'CBMiJWh0dHBzOi8vZXVvYnNlcnZlci5jb20vb3Bpbmlvbi8xNTYzNjDSAQA',
+        'guidislink': False,
+        'published': 'Mon, 31 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 31, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 0, tm_yday = 304, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vZXVvYnNlcnZlci5jb20vb3Bpbmlvbi8xNTYzNjDSAQA?oc=5" target="_blank">The River Oder catastrophe - Poland is about to make it worse</a>&nbsp;&nbsp;<font color="#6f6f6f">EUobserver</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiJWh0dHBzOi8vZXVvYnNlcnZlci5jb20vb3Bpbmlvbi8xNTYzNjDSAQA?oc=5" target="_blank">The River Oder catastrophe - Poland is about to make it worse</a>&nbsp;&nbsp;<font color="#6f6f6f">EUobserver</font>'
+        },
+        'source': {
+            'href': 'https://euobserver.com',
+            'title': 'EUobserver'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'How soulmates Hungary and Poland fell out over Ukraine war - The Guardian',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'How soulmates Hungary and Poland fell out over Ukraine war - The Guardian'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIyL29jdC8xOC9ob3ctc291bG1hdGVzLWh1bmdhcnktYW5kLXBvbGFuZC1mZWxsLW91dC1vdmVyLXVrcmFpbmUtd2Fy0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjIvb2N0LzE4L2hvdy1zb3VsbWF0ZXMtaHVuZ2FyeS1hbmQtcG9sYW5kLWZlbGwtb3V0LW92ZXItdWtyYWluZS13YXI?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIyL29jdC8xOC9ob3ctc291bG1hdGVzLWh1bmdhcnktYW5kLXBvbGFuZC1mZWxsLW91dC1vdmVyLXVrcmFpbmUtd2Fy0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjIvb2N0LzE4L2hvdy1zb3VsbWF0ZXMtaHVuZ2FyeS1hbmQtcG9sYW5kLWZlbGwtb3V0LW92ZXItdWtyYWluZS13YXI?oc=5',
+        'id': 'CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIyL29jdC8xOC9ob3ctc291bG1hdGVzLWh1bmdhcnktYW5kLXBvbGFuZC1mZWxsLW91dC1vdmVyLXVrcmFpbmUtd2Fy0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjIvb2N0LzE4L2hvdy1zb3VsbWF0ZXMtaHVuZ2FyeS1hbmQtcG9sYW5kLWZlbGwtb3V0LW92ZXItdWtyYWluZS13YXI',
+        'guidislink': False,
+        'published': 'Wed, 19 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 19, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 292, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIyL29jdC8xOC9ob3ctc291bG1hdGVzLWh1bmdhcnktYW5kLXBvbGFuZC1mZWxsLW91dC1vdmVyLXVrcmFpbmUtd2Fy0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjIvb2N0LzE4L2hvdy1zb3VsbWF0ZXMtaHVuZ2FyeS1hbmQtcG9sYW5kLWZlbGwtb3V0LW92ZXItdWtyYWluZS13YXI?oc=5" target="_blank">How soulmates Hungary and Poland fell out over Ukraine war</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC8yMDIyL29jdC8xOC9ob3ctc291bG1hdGVzLWh1bmdhcnktYW5kLXBvbGFuZC1mZWxsLW91dC1vdmVyLXVrcmFpbmUtd2Fy0gFoaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkLzIwMjIvb2N0LzE4L2hvdy1zb3VsbWF0ZXMtaHVuZ2FyeS1hbmQtcG9sYW5kLWZlbGwtb3V0LW92ZXItdWtyYWluZS13YXI?oc=5" target="_blank">How soulmates Hungary and Poland fell out over Ukraine war</a>&nbsp;&nbsp;<font color="#6f6f6f">The Guardian</font>'
+        },
+        'source': {
+            'href': 'https://www.theguardian.com',
+            'title': 'The Guardian'
+        },
+        'sub_articles': []
+    }, {
+        'title': "The mortgage time bomb ticking beneath Poland's banks - Financial Times",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "The mortgage time bomb ticking beneath Poland's banks - Financial Times"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzE5MjM1YTdhLTM2ZjEtNDFhNC1iNThmLTZhZGZkZWE1MzIyMNIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzE5MjM1YTdhLTM2ZjEtNDFhNC1iNThmLTZhZGZkZWE1MzIyMNIBAA?oc=5',
+        'id': 'CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzE5MjM1YTdhLTM2ZjEtNDFhNC1iNThmLTZhZGZkZWE1MzIyMNIBAA',
+        'guidislink': False,
+        'published': 'Sat, 12 Nov 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 12, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 5, tm_yday = 316, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzE5MjM1YTdhLTM2ZjEtNDFhNC1iNThmLTZhZGZkZWE1MzIyMNIBAA?oc=5" target="_blank">The mortgage time bomb ticking beneath Poland\'s banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzE5MjM1YTdhLTM2ZjEtNDFhNC1iNThmLTZhZGZkZWE1MzIyMNIBAA?oc=5" target="_blank">The mortgage time bomb ticking beneath Poland\'s banks</a>&nbsp;&nbsp;<font color="#6f6f6f">Financial Times</font>'
+        },
+        'source': {
+            'href': 'https://www.ft.com',
+            'title': 'Financial Times'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Readout of Secretary of Defense Lloyd J. Austin III's Call With Polish Deputy Prime Minister and Minister of National Defense Mariusz Błaszczak - US Embassy and Consulate in Poland",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Readout of Secretary of Defense Lloyd J. Austin III's Call With Polish Deputy Prime Minister and Minister of National Defense Mariusz Błaszczak - US Embassy and Consulate in Poland"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiMGh0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9sbG95ZF9hdXN0aW5fYmxhc3pjemFrL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiMGh0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9sbG95ZF9hdXN0aW5fYmxhc3pjemFrL9IBAA?oc=5',
+        'id': 'CBMiMGh0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9sbG95ZF9hdXN0aW5fYmxhc3pjemFrL9IBAA',
+        'guidislink': False,
+        'published': 'Wed, 02 Nov 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 2, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 306, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiMGh0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9sbG95ZF9hdXN0aW5fYmxhc3pjemFrL9IBAA?oc=5" target="_blank">Readout of Secretary of Defense Lloyd J. Austin III\'s Call With Polish Deputy Prime Minister and Minister of National Defense Mariusz Błaszczak</a>&nbsp;&nbsp;<font color="#6f6f6f">US Embassy and Consulate in Poland</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiMGh0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9sbG95ZF9hdXN0aW5fYmxhc3pjemFrL9IBAA?oc=5" target="_blank">Readout of Secretary of Defense Lloyd J. Austin III\'s Call With Polish Deputy Prime Minister and Minister of National Defense Mariusz Błaszczak</a>&nbsp;&nbsp;<font color="#6f6f6f">US Embassy and Consulate in Poland</font>'
+        },
+        'source': {
+            'href': 'https://pl.usembassy.gov',
+            'title': 'US Embassy and Consulate in Poland'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Poland's Judicial Reform Falls Short of EU Expectations, Complicating Cooperation Against Russia - Just Security",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Poland's Judicial Reform Falls Short of EU Expectations, Complicating Cooperation Against Russia - Just Security"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5qdXN0c2VjdXJpdHkub3JnLzgzMzI0L3BvbGFuZHMtanVkaWNpYWwtcmVmb3JtLWZhbGxzLXNob3J0LW9mLWV1LWV4cGVjdGF0aW9ucy1jb21wbGljYXRpbmctY29vcGVyYXRpb24tYWdhaW5zdC1ydXNzaWEv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5qdXN0c2VjdXJpdHkub3JnLzgzMzI0L3BvbGFuZHMtanVkaWNpYWwtcmVmb3JtLWZhbGxzLXNob3J0LW9mLWV1LWV4cGVjdGF0aW9ucy1jb21wbGljYXRpbmctY29vcGVyYXRpb24tYWdhaW5zdC1ydXNzaWEv0gEA?oc=5',
+        'id': 'CBMiggFodHRwczovL3d3dy5qdXN0c2VjdXJpdHkub3JnLzgzMzI0L3BvbGFuZHMtanVkaWNpYWwtcmVmb3JtLWZhbGxzLXNob3J0LW9mLWV1LWV4cGVjdGF0aW9ucy1jb21wbGljYXRpbmctY29vcGVyYXRpb24tYWdhaW5zdC1ydXNzaWEv0gEA',
+        'guidislink': False,
+        'published': 'Mon, 03 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 3, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 0, tm_yday = 276, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5qdXN0c2VjdXJpdHkub3JnLzgzMzI0L3BvbGFuZHMtanVkaWNpYWwtcmVmb3JtLWZhbGxzLXNob3J0LW9mLWV1LWV4cGVjdGF0aW9ucy1jb21wbGljYXRpbmctY29vcGVyYXRpb24tYWdhaW5zdC1ydXNzaWEv0gEA?oc=5" target="_blank">Poland\'s Judicial Reform Falls Short of EU Expectations, Complicating Cooperation Against Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Just Security</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiggFodHRwczovL3d3dy5qdXN0c2VjdXJpdHkub3JnLzgzMzI0L3BvbGFuZHMtanVkaWNpYWwtcmVmb3JtLWZhbGxzLXNob3J0LW9mLWV1LWV4cGVjdGF0aW9ucy1jb21wbGljYXRpbmctY29vcGVyYXRpb24tYWdhaW5zdC1ydXNzaWEv0gEA?oc=5" target="_blank">Poland\'s Judicial Reform Falls Short of EU Expectations, Complicating Cooperation Against Russia</a>&nbsp;&nbsp;<font color="#6f6f6f">Just Security</font>'
+        },
+        'source': {
+            'href': 'https://www.justsecurity.org',
+            'title': 'Just Security'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Most in Poland and Hungary see EU positively - Pew Research Center',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Most in Poland and Hungary see EU positively - Pew Research Center'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZmFjdC10YW5rLzIwMjIvMTAvMTgvZGVzcGl0ZS1yZWNlbnQtcG9saXRpY2FsLWNsYXNoZXMtbW9zdC1wZW9wbGUtaW4tcG9sYW5kLWFuZC1odW5nYXJ5LXNlZS10aGUtZXUtZmF2b3JhYmx5L9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZmFjdC10YW5rLzIwMjIvMTAvMTgvZGVzcGl0ZS1yZWNlbnQtcG9saXRpY2FsLWNsYXNoZXMtbW9zdC1wZW9wbGUtaW4tcG9sYW5kLWFuZC1odW5nYXJ5LXNlZS10aGUtZXUtZmF2b3JhYmx5L9IBAA?oc=5',
+        'id': 'CBMiiQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZmFjdC10YW5rLzIwMjIvMTAvMTgvZGVzcGl0ZS1yZWNlbnQtcG9saXRpY2FsLWNsYXNoZXMtbW9zdC1wZW9wbGUtaW4tcG9sYW5kLWFuZC1odW5nYXJ5LXNlZS10aGUtZXUtZmF2b3JhYmx5L9IBAA',
+        'guidislink': False,
+        'published': 'Tue, 18 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 18, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 291, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZmFjdC10YW5rLzIwMjIvMTAvMTgvZGVzcGl0ZS1yZWNlbnQtcG9saXRpY2FsLWNsYXNoZXMtbW9zdC1wZW9wbGUtaW4tcG9sYW5kLWFuZC1odW5nYXJ5LXNlZS10aGUtZXUtZmF2b3JhYmx5L9IBAA?oc=5" target="_blank">Most in Poland and Hungary see EU positively</a>&nbsp;&nbsp;<font color="#6f6f6f">Pew Research Center</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiiQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZmFjdC10YW5rLzIwMjIvMTAvMTgvZGVzcGl0ZS1yZWNlbnQtcG9saXRpY2FsLWNsYXNoZXMtbW9zdC1wZW9wbGUtaW4tcG9sYW5kLWFuZC1odW5nYXJ5LXNlZS10aGUtZXUtZmF2b3JhYmx5L9IBAA?oc=5" target="_blank">Most in Poland and Hungary see EU positively</a>&nbsp;&nbsp;<font color="#6f6f6f">Pew Research Center</font>'
+        },
+        'source': {
+            'href': 'https://www.pewresearch.org',
+            'title': 'Pew Research Center'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'European markets close 1% lower as geopolitical tensions rise after Poland missile incident - CNBC',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'European markets close 1% lower as geopolitical tensions rise after Poland missile incident - CNBC'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTEvMTYvZXVyb3BlYW4tbWFya2V0cy1nZW9wb2xpdGljYWwtdGVuc2lvbnMtcmlzZS1hZnRlci1wb2xhbmQtbWlzc2lsZS1oaXQuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzExLzE2L2V1cm9wZWFuLW1hcmtldHMtZ2VvcG9saXRpY2FsLXRlbnNpb25zLXJpc2UtYWZ0ZXItcG9sYW5kLW1pc3NpbGUtaGl0Lmh0bWw?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTEvMTYvZXVyb3BlYW4tbWFya2V0cy1nZW9wb2xpdGljYWwtdGVuc2lvbnMtcmlzZS1hZnRlci1wb2xhbmQtbWlzc2lsZS1oaXQuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzExLzE2L2V1cm9wZWFuLW1hcmtldHMtZ2VvcG9saXRpY2FsLXRlbnNpb25zLXJpc2UtYWZ0ZXItcG9sYW5kLW1pc3NpbGUtaGl0Lmh0bWw?oc=5',
+        'id': 'CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTEvMTYvZXVyb3BlYW4tbWFya2V0cy1nZW9wb2xpdGljYWwtdGVuc2lvbnMtcmlzZS1hZnRlci1wb2xhbmQtbWlzc2lsZS1oaXQuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzExLzE2L2V1cm9wZWFuLW1hcmtldHMtZ2VvcG9saXRpY2FsLXRlbnNpb25zLXJpc2UtYWZ0ZXItcG9sYW5kLW1pc3NpbGUtaGl0Lmh0bWw',
+        'guidislink': False,
+        'published': 'Wed, 16 Nov 2022 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 11, tm_mday = 16, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 320, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTEvMTYvZXVyb3BlYW4tbWFya2V0cy1nZW9wb2xpdGljYWwtdGVuc2lvbnMtcmlzZS1hZnRlci1wb2xhbmQtbWlzc2lsZS1oaXQuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzExLzE2L2V1cm9wZWFuLW1hcmtldHMtZ2VvcG9saXRpY2FsLXRlbnNpb25zLXJpc2UtYWZ0ZXItcG9sYW5kLW1pc3NpbGUtaGl0Lmh0bWw?oc=5" target="_blank">European markets close 1% lower as geopolitical tensions rise after Poland missile incident</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiaWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjIvMTEvMTYvZXVyb3BlYW4tbWFya2V0cy1nZW9wb2xpdGljYWwtdGVuc2lvbnMtcmlzZS1hZnRlci1wb2xhbmQtbWlzc2lsZS1oaXQuaHRtbNIBbWh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDIyLzExLzE2L2V1cm9wZWFuLW1hcmtldHMtZ2VvcG9saXRpY2FsLXRlbnNpb25zLXJpc2UtYWZ0ZXItcG9sYW5kLW1pc3NpbGUtaGl0Lmh0bWw?oc=5" target="_blank">European markets close 1% lower as geopolitical tensions rise after Poland missile incident</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font>'
+        },
+        'source': {
+            'href': 'https://www.cnbc.com',
+            'title': 'CNBC'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland allows use of brown coal to heat homes amid supply crisis - Reuters.com',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland allows use of brown coal to heat homes amid supply crisis - Reuters.com'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9wb2xhbmQtYWxsb3dzLXVzZS1icm93bi1jb2FsLWhlYXQtaG9tZXMtYW1pZC1zdXBwbHktY3Jpc2lzLTIwMjItMDktMjkv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9wb2xhbmQtYWxsb3dzLXVzZS1icm93bi1jb2FsLWhlYXQtaG9tZXMtYW1pZC1zdXBwbHktY3Jpc2lzLTIwMjItMDktMjkv0gEA?oc=5',
+        'id': 'CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9wb2xhbmQtYWxsb3dzLXVzZS1icm93bi1jb2FsLWhlYXQtaG9tZXMtYW1pZC1zdXBwbHktY3Jpc2lzLTIwMjItMDktMjkv0gEA',
+        'guidislink': False,
+        'published': 'Thu, 29 Sep 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 9, tm_mday = 29, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 272, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9wb2xhbmQtYWxsb3dzLXVzZS1icm93bi1jb2FsLWhlYXQtaG9tZXMtYW1pZC1zdXBwbHktY3Jpc2lzLTIwMjItMDktMjkv0gEA?oc=5" target="_blank">Poland allows use of brown coal to heat homes amid supply crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters.com</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9wb2xhbmQtYWxsb3dzLXVzZS1icm93bi1jb2FsLWhlYXQtaG9tZXMtYW1pZC1zdXBwbHktY3Jpc2lzLTIwMjItMDktMjkv0gEA?oc=5" target="_blank">Poland allows use of brown coal to heat homes amid supply crisis</a>&nbsp;&nbsp;<font color="#6f6f6f">Reuters.com</font>'
+        },
+        'source': {
+            'href': 'https://www.reuters.com',
+            'title': 'Reuters.com'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'How Displaced Ukrainians in Poland Find Work While Benefiting Its Economy - Voice of America - VOA News',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'How Displaced Ukrainians in Poland Find Work While Benefiting Its Economy - Voice of America - VOA News'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWzSAXJodHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWw?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWzSAXJodHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWw?oc=5',
+        'id': 'CBMicGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWzSAXJodHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWw',
+        'guidislink': False,
+        'published': 'Sat, 01 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 1, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 5, tm_yday = 274, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWzSAXJodHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWw?oc=5" target="_blank">How Displaced Ukrainians in Poland Find Work While Benefiting Its Economy</a>&nbsp;&nbsp;<font color="#6f6f6f">Voice of America - VOA News</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LnZvYW5ld3MuY29tL2EvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWzSAXJodHRwczovL3d3dy52b2FuZXdzLmNvbS9hbXAvaG93LWRpc3BsYWNlZC11a3JhaW5pYW5zLWluLXBvbGFuZC1maW5kLXdvcmstd2hpbGUtYmVuZWZpdGluZy1pdHMtZWNvbm9teS82NzcxODEwLmh0bWw?oc=5" target="_blank">How Displaced Ukrainians in Poland Find Work While Benefiting Its Economy</a>&nbsp;&nbsp;<font color="#6f6f6f">Voice of America - VOA News</font>'
+        },
+        'source': {
+            'href': 'https://www.voanews.com',
+            'title': 'Voice of America - VOA News'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Bringing the Polish community to the forefront in Detroit - CBS News',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Bringing the Polish community to the forefront in Detroit - CBS News'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv0gFjaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv0gFjaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv?oc=5',
+        'id': 'CBMiX2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv0gFjaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv',
+        'guidislink': False,
+        'published': 'Fri, 21 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 21, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 4, tm_yday = 294, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv0gFjaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv?oc=5" target="_blank">Bringing the Polish community to the forefront in Detroit</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vd3d3LmNic25ld3MuY29tL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv0gFjaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL2RldHJvaXQvbmV3cy9icmluZ2luZy10aGUtcG9saXNoLWNvbW11bml0eS10by10aGUtZm9yZWZyb250LWluLWRldHJvaXQv?oc=5" target="_blank">Bringing the Polish community to the forefront in Detroit</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS News</font>'
+        },
+        'source': {
+            'href': 'https://www.cbsnews.com',
+            'title': 'CBS News'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'The State of Security: Poland - tripwire.com',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'The State of Security: Poland - tripwire.com'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnRyaXB3aXJlLmNvbS9zdGF0ZS1vZi1zZWN1cml0eS90aGUtc3RhdGUtb2Ytc2VjdXJpdHktcG9sYW5k0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnRyaXB3aXJlLmNvbS9zdGF0ZS1vZi1zZWN1cml0eS90aGUtc3RhdGUtb2Ytc2VjdXJpdHktcG9sYW5k0gEA?oc=5',
+        'id': 'CBMiR2h0dHBzOi8vd3d3LnRyaXB3aXJlLmNvbS9zdGF0ZS1vZi1zZWN1cml0eS90aGUtc3RhdGUtb2Ytc2VjdXJpdHktcG9sYW5k0gEA',
+        'guidislink': False,
+        'published': 'Wed, 05 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 5, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 278, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnRyaXB3aXJlLmNvbS9zdGF0ZS1vZi1zZWN1cml0eS90aGUtc3RhdGUtb2Ytc2VjdXJpdHktcG9sYW5k0gEA?oc=5" target="_blank">The State of Security: Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">tripwire.com</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiR2h0dHBzOi8vd3d3LnRyaXB3aXJlLmNvbS9zdGF0ZS1vZi1zZWN1cml0eS90aGUtc3RhdGUtb2Ytc2VjdXJpdHktcG9sYW5k0gEA?oc=5" target="_blank">The State of Security: Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">tripwire.com</font>'
+        },
+        'source': {
+            'href': 'https://www.tripwire.com',
+            'title': 'tripwire.com'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Minimum wage to be increased more than previously announced - Berry Appleman & Leiden LLP',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Minimum wage to be increased more than previously announced - Berry Appleman & Leiden LLP'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmJhbC5jb20vYmFsLW5ld3MvcG9sYW5kLW1pbmltdW0td2FnZS10by1iZS1pbmNyZWFzZWQtbW9yZS10aGFuLXByZXZpb3VzbHktYW5ub3VuY2VkL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmJhbC5jb20vYmFsLW5ld3MvcG9sYW5kLW1pbmltdW0td2FnZS10by1iZS1pbmNyZWFzZWQtbW9yZS10aGFuLXByZXZpb3VzbHktYW5ub3VuY2VkL9IBAA?oc=5',
+        'id': 'CBMiYGh0dHBzOi8vd3d3LmJhbC5jb20vYmFsLW5ld3MvcG9sYW5kLW1pbmltdW0td2FnZS10by1iZS1pbmNyZWFzZWQtbW9yZS10aGFuLXByZXZpb3VzbHktYW5ub3VuY2VkL9IBAA',
+        'guidislink': False,
+        'published': 'Tue, 04 Oct 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 10, tm_mday = 4, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 277, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmJhbC5jb20vYmFsLW5ld3MvcG9sYW5kLW1pbmltdW0td2FnZS10by1iZS1pbmNyZWFzZWQtbW9yZS10aGFuLXByZXZpb3VzbHktYW5ub3VuY2VkL9IBAA?oc=5" target="_blank">Minimum wage to be increased more than previously announced</a>&nbsp;&nbsp;<font color="#6f6f6f">Berry Appleman & Leiden LLP</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vd3d3LmJhbC5jb20vYmFsLW5ld3MvcG9sYW5kLW1pbmltdW0td2FnZS10by1iZS1pbmNyZWFzZWQtbW9yZS10aGFuLXByZXZpb3VzbHktYW5ub3VuY2VkL9IBAA?oc=5" target="_blank">Minimum wage to be increased more than previously announced</a>&nbsp;&nbsp;<font color="#6f6f6f">Berry Appleman & Leiden LLP</font>'
+        },
+        'source': {
+            'href': 'https://www.bal.com',
+            'title': 'Berry Appleman & Leiden LLP'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Wang Yi Meets with Foreign Minister Zbigniew Rau of Poland - MFA China',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Wang Yi Meets with Foreign Minister Zbigniew Rau of Poland - MFA China'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZtcHJjLmdvdi5jbi9tZmFfZW5nL3dqZHRfNjY1Mzg1L3dzaGRfNjY1Mzg5LzIwMjIwOS90MjAyMjA5MjNfMTA3NzA1NDMuaHRtbNIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZtcHJjLmdvdi5jbi9tZmFfZW5nL3dqZHRfNjY1Mzg1L3dzaGRfNjY1Mzg5LzIwMjIwOS90MjAyMjA5MjNfMTA3NzA1NDMuaHRtbNIBAA?oc=5',
+        'id': 'CBMiV2h0dHBzOi8vd3d3LmZtcHJjLmdvdi5jbi9tZmFfZW5nL3dqZHRfNjY1Mzg1L3dzaGRfNjY1Mzg5LzIwMjIwOS90MjAyMjA5MjNfMTA3NzA1NDMuaHRtbNIBAA',
+        'guidislink': False,
+        'published': 'Thu, 22 Sep 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 9, tm_mday = 22, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 265, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZtcHJjLmdvdi5jbi9tZmFfZW5nL3dqZHRfNjY1Mzg1L3dzaGRfNjY1Mzg5LzIwMjIwOS90MjAyMjA5MjNfMTA3NzA1NDMuaHRtbNIBAA?oc=5" target="_blank">Wang Yi Meets with Foreign Minister Zbigniew Rau of Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">MFA China</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZtcHJjLmdvdi5jbi9tZmFfZW5nL3dqZHRfNjY1Mzg1L3dzaGRfNjY1Mzg5LzIwMjIwOS90MjAyMjA5MjNfMTA3NzA1NDMuaHRtbNIBAA?oc=5" target="_blank">Wang Yi Meets with Foreign Minister Zbigniew Rau of Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">MFA China</font>'
+        },
+        'source': {
+            'href': 'https://www.fmprc.gov.cn',
+            'title': 'MFA China'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'With Korean aircraft buy, Poland pushes beyond post-Soviet airframe legacy - Breaking Defense',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'With Korean aircraft buy, Poland pushes beyond post-Soviet airframe legacy - Breaking Defense'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzA5L3dpdGgta29yZWFuLWFpcmNyYWZ0LWJ1eS1wb2xhbmQtcHVzaGVzLWJleW9uZC1wb3N0LXNvdmlldC1haXJmcmFtZS1sZWdhY3kv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzA5L3dpdGgta29yZWFuLWFpcmNyYWZ0LWJ1eS1wb2xhbmQtcHVzaGVzLWJleW9uZC1wb3N0LXNvdmlldC1haXJmcmFtZS1sZWdhY3kv0gEA?oc=5',
+        'id': 'CBMibmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzA5L3dpdGgta29yZWFuLWFpcmNyYWZ0LWJ1eS1wb2xhbmQtcHVzaGVzLWJleW9uZC1wb3N0LXNvdmlldC1haXJmcmFtZS1sZWdhY3kv0gEA',
+        'guidislink': False,
+        'published': 'Tue, 20 Sep 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 9, tm_mday = 20, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 263, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzA5L3dpdGgta29yZWFuLWFpcmNyYWZ0LWJ1eS1wb2xhbmQtcHVzaGVzLWJleW9uZC1wb3N0LXNvdmlldC1haXJmcmFtZS1sZWdhY3kv0gEA?oc=5" target="_blank">With Korean aircraft buy, Poland pushes beyond post-Soviet airframe legacy</a>&nbsp;&nbsp;<font color="#6f6f6f">Breaking Defense</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vYnJlYWtpbmdkZWZlbnNlLmNvbS8yMDIyLzA5L3dpdGgta29yZWFuLWFpcmNyYWZ0LWJ1eS1wb2xhbmQtcHVzaGVzLWJleW9uZC1wb3N0LXNvdmlldC1haXJmcmFtZS1sZWdhY3kv0gEA?oc=5" target="_blank">With Korean aircraft buy, Poland pushes beyond post-Soviet airframe legacy</a>&nbsp;&nbsp;<font color="#6f6f6f">Breaking Defense</font>'
+        },
+        'source': {
+            'href': 'https://breakingdefense.com',
+            'title': 'Breaking Defense'
+        },
+        'sub_articles': []
+    }, {
+        'title': "Poland's Lewandowski taking symbol of Ukraine to World Cup - The Associated Press - en Español",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "Poland's Lewandowski taking symbol of Ukraine to World Cup - The Associated Press - en Español"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXNwb3J0cy1zb2NjZXItd29ybGQtY3VwLTk3MTg0NDQ1ZWQ3MjU0OTRmNTgyNzMwODg1OTk1YWVl0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXNwb3J0cy1zb2NjZXItd29ybGQtY3VwLTk3MTg0NDQ1ZWQ3MjU0OTRmNTgyNzMwODg1OTk1YWVl0gEA?oc=5',
+        'id': 'CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXNwb3J0cy1zb2NjZXItd29ybGQtY3VwLTk3MTg0NDQ1ZWQ3MjU0OTRmNTgyNzMwODg1OTk1YWVl0gEA',
+        'guidislink': False,
+        'published': 'Tue, 20 Sep 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 9, tm_mday = 20, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 263, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXNwb3J0cy1zb2NjZXItd29ybGQtY3VwLTk3MTg0NDQ1ZWQ3MjU0OTRmNTgyNzMwODg1OTk1YWVl0gEA?oc=5" target="_blank">Poland\'s Lewandowski taking symbol of Ukraine to World Cup</a>&nbsp;&nbsp;<font color="#6f6f6f">The Associated Press - en Español</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3J1c3NpYS11a3JhaW5lLXNwb3J0cy1zb2NjZXItd29ybGQtY3VwLTk3MTg0NDQ1ZWQ3MjU0OTRmNTgyNzMwODg1OTk1YWVl0gEA?oc=5" target="_blank">Poland\'s Lewandowski taking symbol of Ukraine to World Cup</a>&nbsp;&nbsp;<font color="#6f6f6f">The Associated Press - en Español</font>'
+        },
+        'source': {
+            'href': 'https://apnews.com',
+            'title': 'The Associated Press - en Español'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Leopard 2s From Poland. Challenger 2s From The United Kingdom. All Of The Sudden, Ukraine Could Get Tanks From All Over Europe. - Forbes',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Leopard 2s From Poland. Challenger 2s From The United Kingdom. All Of The Sudden, Ukraine Could Get Tanks From All Over Europe. - Forbes'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMirgFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjMvMDEvMTEvbGVvcGFyZC0ycy1mcm9tLXBvbGFuZC1jaGFsbGVuZ2VyLTJzLWZyb20tdGhlLXVuaXRlZC1raW5nZG9tLWFsbC1vZi10aGUtc3VkZGVuLXVrcmFpbmUtaXMtZ2V0dGluZy10YW5rcy1mcm9tLWFsbC1vdmVyLWV1cm9wZS_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMirgFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjMvMDEvMTEvbGVvcGFyZC0ycy1mcm9tLXBvbGFuZC1jaGFsbGVuZ2VyLTJzLWZyb20tdGhlLXVuaXRlZC1raW5nZG9tLWFsbC1vZi10aGUtc3VkZGVuLXVrcmFpbmUtaXMtZ2V0dGluZy10YW5rcy1mcm9tLWFsbC1vdmVyLWV1cm9wZS_SAQA?oc=5',
+        'id': 'CBMirgFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjMvMDEvMTEvbGVvcGFyZC0ycy1mcm9tLXBvbGFuZC1jaGFsbGVuZ2VyLTJzLWZyb20tdGhlLXVuaXRlZC1raW5nZG9tLWFsbC1vZi10aGUtc3VkZGVuLXVrcmFpbmUtaXMtZ2V0dGluZy10YW5rcy1mcm9tLWFsbC1vdmVyLWV1cm9wZS_SAQA',
+        'guidislink': False,
+        'published': 'Wed, 11 Jan 2023 08:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2023, tm_mon = 1, tm_mday = 11, tm_hour = 8, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 11, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMirgFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjMvMDEvMTEvbGVvcGFyZC0ycy1mcm9tLXBvbGFuZC1jaGFsbGVuZ2VyLTJzLWZyb20tdGhlLXVuaXRlZC1raW5nZG9tLWFsbC1vZi10aGUtc3VkZGVuLXVrcmFpbmUtaXMtZ2V0dGluZy10YW5rcy1mcm9tLWFsbC1vdmVyLWV1cm9wZS_SAQA?oc=5" target="_blank">Leopard 2s From Poland. Challenger 2s From The United Kingdom. All Of The Sudden, Ukraine Could Get Tanks From All Over Europe.</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMirgFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2RhdmlkYXhlLzIwMjMvMDEvMTEvbGVvcGFyZC0ycy1mcm9tLXBvbGFuZC1jaGFsbGVuZ2VyLTJzLWZyb20tdGhlLXVuaXRlZC1raW5nZG9tLWFsbC1vZi10aGUtc3VkZGVuLXVrcmFpbmUtaXMtZ2V0dGluZy10YW5rcy1mcm9tLWFsbC1vdmVyLWV1cm9wZS_SAQA?oc=5" target="_blank">Leopard 2s From Poland. Challenger 2s From The United Kingdom. All Of The Sudden, Ukraine Could Get Tanks From All Over Europe.</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font>'
+        },
+        'source': {
+            'href': 'https://www.forbes.com',
+            'title': 'Forbes'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Poland demands $1.3 trillion war reparations from Germany - The Associated Press',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Poland demands $1.3 trillion war reparations from Germany - The Associated Press'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGFuZC1nZXJtYW55LXdvcmxkLXdhci1paS13YXJzYXctNDliMGNmNzc3NDVhN2IxY2FiZmFhODg0YzNiZjAwMzXSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGFuZC1nZXJtYW55LXdvcmxkLXdhci1paS13YXJzYXctNDliMGNmNzc3NDVhN2IxY2FiZmFhODg0YzNiZjAwMzXSAQA?oc=5',
+        'id': 'CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGFuZC1nZXJtYW55LXdvcmxkLXdhci1paS13YXJzYXctNDliMGNmNzc3NDVhN2IxY2FiZmFhODg0YzNiZjAwMzXSAQA',
+        'guidislink': False,
+        'published': 'Thu, 01 Sep 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 9, tm_mday = 1, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 244, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGFuZC1nZXJtYW55LXdvcmxkLXdhci1paS13YXJzYXctNDliMGNmNzc3NDVhN2IxY2FiZmFhODg0YzNiZjAwMzXSAQA?oc=5" target="_blank">Poland demands $1.3 trillion war reparations from Germany</a>&nbsp;&nbsp;<font color="#6f6f6f">The Associated Press</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3BvbGFuZC1nZXJtYW55LXdvcmxkLXdhci1paS13YXJzYXctNDliMGNmNzc3NDVhN2IxY2FiZmFhODg0YzNiZjAwMzXSAQA?oc=5" target="_blank">Poland demands $1.3 trillion war reparations from Germany</a>&nbsp;&nbsp;<font color="#6f6f6f">The Associated Press</font>'
+        },
+        'source': {
+            'href': 'https://apnews.com',
+            'title': 'The Associated Press'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'War in Ukraine spurs coal-loving Poland into climate action - The Washington Post',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'War in Ukraine spurs coal-loving Poland into climate action - The Washington Post'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLXNvbHV0aW9ucy8yMDIyLzA5LzA2L3BvbGFuZC11a3JhaW5lLWhlYXQtcHVtcHMtY2xpbWF0ZS_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLXNvbHV0aW9ucy8yMDIyLzA5LzA2L3BvbGFuZC11a3JhaW5lLWhlYXQtcHVtcHMtY2xpbWF0ZS_SAQA?oc=5',
+        'id': 'CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLXNvbHV0aW9ucy8yMDIyLzA5LzA2L3BvbGFuZC11a3JhaW5lLWhlYXQtcHVtcHMtY2xpbWF0ZS_SAQA',
+        'guidislink': False,
+        'published': 'Tue, 06 Sep 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 9, tm_mday = 6, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 249, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLXNvbHV0aW9ucy8yMDIyLzA5LzA2L3BvbGFuZC11a3JhaW5lLWhlYXQtcHVtcHMtY2xpbWF0ZS_SAQA?oc=5" target="_blank">War in Ukraine spurs coal-loving Poland into climate action</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiXmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9jbGltYXRlLXNvbHV0aW9ucy8yMDIyLzA5LzA2L3BvbGFuZC11a3JhaW5lLWhlYXQtcHVtcHMtY2xpbWF0ZS_SAQA?oc=5" target="_blank">War in Ukraine spurs coal-loving Poland into climate action</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font>'
+        },
+        'source': {
+            'href': 'https://www.washingtonpost.com',
+            'title': 'The Washington Post'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'The United States of America and the Republic of Poland Make Progress on Civil Nuclear Cooperation - US Embassy and Consulate in Poland',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'The United States of America and the Republic of Poland Make Progress on Civil Nuclear Cooperation - US Embassy and Consulate in Poland'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9jaXZpbF9udWNsZWFyX2Nvb3BlcmF0aW9uL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9jaXZpbF9udWNsZWFyX2Nvb3BlcmF0aW9uL9IBAA?oc=5',
+        'id': 'CBMiM2h0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9jaXZpbF9udWNsZWFyX2Nvb3BlcmF0aW9uL9IBAA',
+        'guidislink': False,
+        'published': 'Tue, 13 Sep 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 9, tm_mday = 13, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 1, tm_yday = 256, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9jaXZpbF9udWNsZWFyX2Nvb3BlcmF0aW9uL9IBAA?oc=5" target="_blank">The United States of America and the Republic of Poland Make Progress on Civil Nuclear Cooperation</a>&nbsp;&nbsp;<font color="#6f6f6f">US Embassy and Consulate in Poland</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vcGwudXNlbWJhc3N5Lmdvdi9jaXZpbF9udWNsZWFyX2Nvb3BlcmF0aW9uL9IBAA?oc=5" target="_blank">The United States of America and the Republic of Poland Make Progress on Civil Nuclear Cooperation</a>&nbsp;&nbsp;<font color="#6f6f6f">US Embassy and Consulate in Poland</font>'
+        },
+        'source': {
+            'href': 'https://pl.usembassy.gov',
+            'title': 'US Embassy and Consulate in Poland'
+        },
+        'sub_articles': []
+    }, {
+        'title': "New biography explores complex legacy of Poland's founding father Piłsudski - Notes From Poland",
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': "New biography explores complex legacy of Poland's founding father Piłsudski - Notes From Poland"
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzA4LzI2L25ldy1iaW9ncmFwaHktZXhwbG9yZXMtY29tcGxleC1sZWdhY3ktb2YtcG9sYW5kcy1mb3VuZGluZy1mYXRoZXItcGlsc3Vkc2tpL9IBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzA4LzI2L25ldy1iaW9ncmFwaHktZXhwbG9yZXMtY29tcGxleC1sZWdhY3ktb2YtcG9sYW5kcy1mb3VuZGluZy1mYXRoZXItcGlsc3Vkc2tpL9IBAA?oc=5',
+        'id': 'CBMicmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzA4LzI2L25ldy1iaW9ncmFwaHktZXhwbG9yZXMtY29tcGxleC1sZWdhY3ktb2YtcG9sYW5kcy1mb3VuZGluZy1mYXRoZXItcGlsc3Vkc2tpL9IBAA',
+        'guidislink': False,
+        'published': 'Fri, 26 Aug 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 8, tm_mday = 26, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 4, tm_yday = 238, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzA4LzI2L25ldy1iaW9ncmFwaHktZXhwbG9yZXMtY29tcGxleC1sZWdhY3ktb2YtcG9sYW5kcy1mb3VuZGluZy1mYXRoZXItcGlsc3Vkc2tpL9IBAA?oc=5" target="_blank">New biography explores complex legacy of Poland\'s founding father Piłsudski</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vbm90ZXNmcm9tcG9sYW5kLmNvbS8yMDIyLzA4LzI2L25ldy1iaW9ncmFwaHktZXhwbG9yZXMtY29tcGxleC1sZWdhY3ktb2YtcG9sYW5kcy1mb3VuZGluZy1mYXRoZXItcGlsc3Vkc2tpL9IBAA?oc=5" target="_blank">New biography explores complex legacy of Poland\'s founding father Piłsudski</a>&nbsp;&nbsp;<font color="#6f6f6f">Notes From Poland</font>'
+        },
+        'source': {
+            'href': 'https://notesfrompoland.com',
+            'title': 'Notes From Poland'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Oder River mass fish deaths on German-Polish border linked to mercury - The Washington Post',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Oder River mass fish deaths on German-Polish border linked to mercury - The Washington Post'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIyLzA4LzEzL3BvbGFuZC1vZGVyLXJpdmVyLW1lcmN1cnktZmlzaC_SAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIyLzA4LzEzL3BvbGFuZC1vZGVyLXJpdmVyLW1lcmN1cnktZmlzaC_SAQA?oc=5',
+        'id': 'CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIyLzA4LzEzL3BvbGFuZC1vZGVyLXJpdmVyLW1lcmN1cnktZmlzaC_SAQA',
+        'guidislink': False,
+        'published': 'Sat, 13 Aug 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 8, tm_mday = 13, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 5, tm_yday = 225, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIyLzA4LzEzL3BvbGFuZC1vZGVyLXJpdmVyLW1lcmN1cnktZmlzaC_SAQA?oc=5" target="_blank">Oder River mass fish deaths on German-Polish border linked to mercury</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDIyLzA4LzEzL3BvbGFuZC1vZGVyLXJpdmVyLW1lcmN1cnktZmlzaC_SAQA?oc=5" target="_blank">Oder River mass fish deaths on German-Polish border linked to mercury</a>&nbsp;&nbsp;<font color="#6f6f6f">The Washington Post</font>'
+        },
+        'source': {
+            'href': 'https://www.washingtonpost.com',
+            'title': 'The Washington Post'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'How Poland Views the U.S., EU, Russia, NATO - Pew Research Center',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'How Poland Views the U.S., EU, Russia, NATO - Pew Research Center'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZ2xvYmFsLzIwMjIvMDYvMjIvc3BvdGxpZ2h0LW9uLXBvbGFuZC1uZWdhdGl2ZS12aWV3cy1vZi1ydXNzaWEtc3VyZ2UtYnV0LXJhdGluZ3MtZm9yLXUtcy1uYXRvLWV1LWltcHJvdmUv0gEA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZ2xvYmFsLzIwMjIvMDYvMjIvc3BvdGxpZ2h0LW9uLXBvbGFuZC1uZWdhdGl2ZS12aWV3cy1vZi1ydXNzaWEtc3VyZ2UtYnV0LXJhdGluZ3MtZm9yLXUtcy1uYXRvLWV1LWltcHJvdmUv0gEA?oc=5',
+        'id': 'CBMihQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZ2xvYmFsLzIwMjIvMDYvMjIvc3BvdGxpZ2h0LW9uLXBvbGFuZC1uZWdhdGl2ZS12aWV3cy1vZi1ydXNzaWEtc3VyZ2UtYnV0LXJhdGluZ3MtZm9yLXUtcy1uYXRvLWV1LWltcHJvdmUv0gEA',
+        'guidislink': False,
+        'published': 'Wed, 22 Jun 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 6, tm_mday = 22, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 173, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZ2xvYmFsLzIwMjIvMDYvMjIvc3BvdGxpZ2h0LW9uLXBvbGFuZC1uZWdhdGl2ZS12aWV3cy1vZi1ydXNzaWEtc3VyZ2UtYnV0LXJhdGluZ3MtZm9yLXUtcy1uYXRvLWV1LWltcHJvdmUv0gEA?oc=5" target="_blank">How Poland Views the U.S., EU, Russia, NATO</a>&nbsp;&nbsp;<font color="#6f6f6f">Pew Research Center</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMihQFodHRwczovL3d3dy5wZXdyZXNlYXJjaC5vcmcvZ2xvYmFsLzIwMjIvMDYvMjIvc3BvdGxpZ2h0LW9uLXBvbGFuZC1uZWdhdGl2ZS12aWV3cy1vZi1ydXNzaWEtc3VyZ2UtYnV0LXJhdGluZ3MtZm9yLXUtcy1uYXRvLWV1LWltcHJvdmUv0gEA?oc=5" target="_blank">How Poland Views the U.S., EU, Russia, NATO</a>&nbsp;&nbsp;<font color="#6f6f6f">Pew Research Center</font>'
+        },
+        'source': {
+            'href': 'https://www.pewresearch.org',
+            'title': 'Pew Research Center'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Military training area in Poland expands under Puerto Rico National Guard Leadership - United States Army',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Military training area in Poland expands under Puerto Rico National Guard Leadership - United States Army'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjU4NTgyL21pbGl0YXJ5X3RyYWluaW5nX2FyZWFfaW5fcG9sYW5kX2V4cGFuZHNfdW5kZXJfcHVlcnRvX3JpY29fbmF0aW9uYWxfZ3VhcmRfbGVhZGVyc2hpcNIBAA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjU4NTgyL21pbGl0YXJ5X3RyYWluaW5nX2FyZWFfaW5fcG9sYW5kX2V4cGFuZHNfdW5kZXJfcHVlcnRvX3JpY29fbmF0aW9uYWxfZ3VhcmRfbGVhZGVyc2hpcNIBAA?oc=5',
+        'id': 'CBMieGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjU4NTgyL21pbGl0YXJ5X3RyYWluaW5nX2FyZWFfaW5fcG9sYW5kX2V4cGFuZHNfdW5kZXJfcHVlcnRvX3JpY29fbmF0aW9uYWxfZ3VhcmRfbGVhZGVyc2hpcNIBAA',
+        'guidislink': False,
+        'published': 'Wed, 20 Jul 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 7, tm_mday = 20, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 2, tm_yday = 201, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjU4NTgyL21pbGl0YXJ5X3RyYWluaW5nX2FyZWFfaW5fcG9sYW5kX2V4cGFuZHNfdW5kZXJfcHVlcnRvX3JpY29fbmF0aW9uYWxfZ3VhcmRfbGVhZGVyc2hpcNIBAA?oc=5" target="_blank">Military training area in Poland expands under Puerto Rico National Guard Leadership</a>&nbsp;&nbsp;<font color="#6f6f6f">United States Army</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMieGh0dHBzOi8vd3d3LmFybXkubWlsL2FydGljbGUvMjU4NTgyL21pbGl0YXJ5X3RyYWluaW5nX2FyZWFfaW5fcG9sYW5kX2V4cGFuZHNfdW5kZXJfcHVlcnRvX3JpY29fbmF0aW9uYWxfZ3VhcmRfbGVhZGVyc2hpcNIBAA?oc=5" target="_blank">Military training area in Poland expands under Puerto Rico National Guard Leadership</a>&nbsp;&nbsp;<font color="#6f6f6f">United States Army</font>'
+        },
+        'source': {
+            'href': 'https://www.army.mil',
+            'title': 'United States Army'
+        },
+        'sub_articles': []
+    }, {
+        'title': 'Ukraine Refugee Situation Operational Update - Poland, 15 June 2022 - Poland - ReliefWeb',
+        'title_detail': {
+            'type': 'text/plain',
+            'language': None,
+            'base': '',
+            'value': 'Ukraine Refugee Situation Operational Update - Poland, 15 June 2022 - Poland - ReliefWeb'
+        },
+        'links': [{
+            'rel': 'alternate',
+            'type': 'text/html',
+            'href': 'https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vcmVsaWVmd2ViLmludC9yZXBvcnQvcG9sYW5kL3VrcmFpbmUtcmVmdWdlZS1zaXR1YXRpb24tb3BlcmF0aW9uYWwtdXBkYXRlLXBvbGFuZC0xNS1qdW5lLTIwMjLSAQA?oc=5'
+        }],
+        'link': 'https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vcmVsaWVmd2ViLmludC9yZXBvcnQvcG9sYW5kL3VrcmFpbmUtcmVmdWdlZS1zaXR1YXRpb24tb3BlcmF0aW9uYWwtdXBkYXRlLXBvbGFuZC0xNS1qdW5lLTIwMjLSAQA?oc=5',
+        'id': 'CBMiZGh0dHBzOi8vcmVsaWVmd2ViLmludC9yZXBvcnQvcG9sYW5kL3VrcmFpbmUtcmVmdWdlZS1zaXR1YXRpb24tb3BlcmF0aW9uYWwtdXBkYXRlLXBvbGFuZC0xNS1qdW5lLTIwMjLSAQA',
+        'guidislink': False,
+        'published': 'Thu, 30 Jun 2022 07:00:00 GMT',
+        'published_parsed': time.struct_time(tm_year = 2022, tm_mon = 6, tm_mday = 30, tm_hour = 7, tm_min = 0, tm_sec = 0, tm_wday = 3, tm_yday = 181, tm_isdst = 0),
+        'summary': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vcmVsaWVmd2ViLmludC9yZXBvcnQvcG9sYW5kL3VrcmFpbmUtcmVmdWdlZS1zaXR1YXRpb24tb3BlcmF0aW9uYWwtdXBkYXRlLXBvbGFuZC0xNS1qdW5lLTIwMjLSAQA?oc=5" target="_blank">Ukraine Refugee Situation Operational Update - Poland, 15 June 2022 - Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">ReliefWeb</font>',
+        'summary_detail': {
+            'type': 'text/html',
+            'language': None,
+            'base': '',
+            'value': '<a href="https://news.google.com/__i/rss/rd/articles/CBMiZGh0dHBzOi8vcmVsaWVmd2ViLmludC9yZXBvcnQvcG9sYW5kL3VrcmFpbmUtcmVmdWdlZS1zaXR1YXRpb24tb3BlcmF0aW9uYWwtdXBkYXRlLXBvbGFuZC0xNS1qdW5lLTIwMjLSAQA?oc=5" target="_blank">Ukraine Refugee Situation Operational Update - Poland, 15 June 2022 - Poland</a>&nbsp;&nbsp;<font color="#6f6f6f">ReliefWeb</font>'
+        },
+        'source': {
+            'href': 'https://reliefweb.int',
+            'title': 'ReliefWeb'
+        },
+        'sub_articles': []
+    }]
+}

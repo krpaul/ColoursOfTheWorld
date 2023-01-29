@@ -1,0 +1,96 @@
+Russia: -0.29
+Iran: -0.27
+Ukraine: -0.26
+Pakistan: -0.26
+Belarus: -0.23
+Afghanistan: -0.22
+Moldova: -0.22
+Mexico: -0.22
+Democratic Republic of the Congo: -0.23
+China: -0.22
+Myanmar: -0.21
+Myanmar (Burma): -0.24
+France: -0.22
+Bangladesh: -0.2
+El Salvador: -0.22
+Taiwan: -0.2
+Nicaragua: -0.2
+Lebanon: -0.2
+Ethiopia: -0.19
+Israel: -0.19
+United States: -0.21
+Sudan: -0.19
+Bolivia: -0.18
+Tunisia: -0.18
+Nepal: -0.18
+Paraguay: -0.18
+Venezuela: -0.18
+Canada: -0.21
+India: -0.17
+United Kingdom: -0.17
+South Africa: -0.17
+Syria: -0.17
+South Korea: -0.17
+Panama: -0.16
+Australia: -0.19
+Honduras: -0.16
+Brazil: -0.15
+Turkey: -0.15
+Romania: -0.17
+Colombia: -0.27
+Ecuador: -0.15
+Cameroon: -0.15
+Japan: -0.19
+Kyrgyzstan: -0.15
+Argentina: -0.15
+Yemen: -0.15
+Peru: -0.15
+Nigeria: -0.15
+Philippines: -0.15
+Latvia: -0.15
+Bosnia and Herzegovina: -0.14
+Malaysia: -0.15
+Thailand: -0.14
+Morocco: -0.14
+Vietnam: -0.14
+Belize: -0.21
+Indonesia: -0.14
+Belgium: -0.13
+Cambodia: -0.13
+Sweden: -0.15
+Ghana: -0.13
+Greece: -0.32
+Bulgaria: -0.12
+Spain: -0.12
+Jamaica: -0.12
+Italy: -0.12
+Iraq: -0.15
+Serbia: -0.11
+Kazakhstan: -0.12
+Switzerland: -0.14
+Lithuania: -0.11
+Portugal: -0.11
+Saudi Arabia: -0.11
+Bahamas: -0.11
+North Korea: -0.1
+Egypt: -0.11
+Algeria: -0.1
+Costa Rica: -0.1
+Croatia: -0.1
+Suriname: -0.1
+Iceland: -0.1
+Dominican Republic: -0.1
+Slovakia: -0.13
+Mozambique: -0.1
+Poland: -0.09
+Malta: -0.09
+Angola: -0.09
+Uzbekistan: -0.1
+Guyana: -0.08
+Uruguay: -0.07
+Maldives: -0.09
+Oman: -0.06
+Czech Republic: -0.05
+Barbados: -0.05
+Bahrain: -0.04
+Turkmenistan: -0.03
