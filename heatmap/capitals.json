@@ -1664,14 +1664,7 @@
     "CapitalLongitude": "31.033333",
     "CountryCode": "ZW",
     "ContinentName": "Africa"
-}, {
-    "CountryName": "US Minor Outlying Islands",
-    "CapitalName": "Washington",
-    "CapitalLatitude": " D.C.",
-    "CapitalLongitude": "38.883333",
-    "CountryCode": "-77.000000",
-    "ContinentName": "UM"
-}, {
+},{
     "CountryName": "Antarctica",
     "CapitalName": "N/A",
     "CapitalLatitude": "0",

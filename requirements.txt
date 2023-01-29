@@ -8,3 +8,4 @@ termcolor
 pygooglenews
 requests
 bs4
+geopy
