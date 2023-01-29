@@ -37,8 +37,8 @@ def heat():
 last_req = 0;
 @app.route("/get-charities")
 def chars():
-    if not time() - last_req > 5:
-        return jsonify({})
+    # if not time() - last_req > 5:
+    #     return jsonify({})
 
     min_d = 99999999
     cap = None
