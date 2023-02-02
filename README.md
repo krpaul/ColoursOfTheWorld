@@ -1,7 +1,8 @@
 # Colours of the World
 McHacks 2023 Project @ McGiil University. Coded in 24 hours on Jan 28 2023.
 
-[YouTube Video Demo](https://youtu.be/3khhzTuc1d4)
+### YouTube Video Demo
+[![YouTube Video Demo](https://user-images.githubusercontent.com/34616839/216401894-0c680c51-41bb-4b96-ad7e-4ae1c09f387b.png)](https://youtu.be/3khhzTuc1d4)
 
 # Inspiration
 We were inspired by sentiment analysis in the news, as well as crisis trackers. We decided to use co:here to run our own sentiment analysis for current events to pick out petitions one might want to sign!
