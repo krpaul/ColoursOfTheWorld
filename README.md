@@ -27,7 +27,9 @@ We are proud of being able to produce a globe with the heat map that implements 
 3D modelling on the web browser is a lot harder than it needs to be :/ Sentiment analysis has a long way to go. There is an upper limit for caffeine saturation in the human body
 
 # How to run
-Simply close the repository and run `flask run` 
+- Clone the repo
+- `pip install -r requirements.txt` 
+- `flask run`
 
 If you would like to redownload and reanalyze news sources, regard the heatmap/ directory for related scripts.
 
