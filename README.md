@@ -1,4 +1,4 @@
-# Colours of the World
+# The World in Colour
 McHacks 2023 Project @ McGiil University. Coded in 24 hours on Jan 28 2023.
 
 ### YouTube Video Demo
