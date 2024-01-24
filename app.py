@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jsonify, request
+from flask import Flask, render_template, jsonify, request, send_file
 from data import ranked, capitals, find_coords_of_cap, create_radius
 from charity.grab import grab_charities
 from time import time
@@ -49,3 +49,7 @@ def chars():
             cap = c
 
     return jsonify(grab_charities(cap["CountryName"]))
+
+@app.route("/globe/world.jpg")
+def globe_texture():
+    return send_file("./globe/world.jpg")
